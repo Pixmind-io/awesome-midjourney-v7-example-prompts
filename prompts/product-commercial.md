@@ -51,6 +51,8 @@ Elegant perfume bottle on a mirrored surface, scattered rose petals, soft side l
 An electric bicycle designed for city commuters, modern style, white and silver color palette, minimal background, industrial design concept
 ```
 
+![Example](../images/product/prompt-3-electric-bike-concept.jpg)
+
 **Best for:** Product concept presentations, industrial design portfolios, startup pitch decks
 
 **Tips:** `--style raw` reduces Midjourney's artistic embellishment, delivering a cleaner product concept look. "White and silver color palette" keeps the design focused and professional. The 16:9 ratio provides horizontal space ideal for product showcases.
@@ -69,6 +71,8 @@ An electric bicycle designed for city commuters, modern style, white and silver 
 A minimalist Instagram ad for a skincare brand, pastel color palette, with a bottle of serum and a short tagline "Glow Daily"
 ```
 
+![Example](../images/product/prompt-4-skincare-ad-with-text.jpg)
+
 **Best for:** Social media ads, Instagram campaigns, brand launch materials
 
 **Tips:** Midjourney V7 has improved text rendering -- short taglines like "Glow Daily" generate reliably. The 4:5 ratio is the optimal Instagram portrait format. "Minimalist" combined with "pastel" creates the clean, modern aesthetic expected in beauty marketing.
@@ -84,6 +88,8 @@ A minimalist Instagram ad for a skincare brand, pastel color palette, with a bot
 ```
 Floating sneaker display against gradient background, Nike-style athletic shoe, dramatic bottom lighting, product launch aesthetic, ultra-detailed texture
 ```
+
+![Example](../images/product/prompt-5-sneaker-floating-display.jpg)
 
 **Best for:** Sneaker campaigns, product launch teasers, streetwear marketing
 
@@ -102,6 +108,8 @@ Floating sneaker display against gradient background, Nike-style athletic shoe, 
 ```
 Artisan flat lay food photography, sourdough bread, aged cheese, fresh herbs, wooden cutting board, natural morning light from window, rustic aesthetic
 ```
+
+![Example](../images/product/prompt-6-food-photography-flat-lay.jpg)
 
 **Best for:** Restaurant menus, food blog content, artisan brand visuals, social media food posts
 

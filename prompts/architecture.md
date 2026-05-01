@@ -32,6 +32,8 @@ A serene wellness retreat nestled in a redwood forest, architectural photography
 Architectural visualization of a modern glass extension added to a historic brick warehouse, adaptive reuse, exposed original brickwork interior, cast iron columns, in a dense urban setting, dusk, cinematic lighting, photorealistic details
 ```
 
+![Example](../images/architecture/prompt-2-adaptive-reuse-warehouse.jpg)
+
 **Best for:** Urban redevelopment concepts, heritage renovation projects, mixed-use design proposals
 
 **Tips:** "Adaptive reuse" signals the juxtaposition of old and new materials. Dusk timing allows both warm interior light glow and cool exterior ambient light, creating a compelling contrast that showcases both elements of the design.
@@ -66,6 +68,8 @@ A stunning parametric facade on a corporate headquarters, algorithmic architectu
 ```
 A monumental brutalist library, raw concrete texture (beton brut), powerful geometric shapes, dramatic shadow play from sharp morning light, monolithic, atmospheric, wide-angle shot, black and white photography, high contrast
 ```
+
+![Example](../images/architecture/prompt-4-brutalist-library.jpg)
 
 **Best for:** Architectural heritage studies, editorial features, monochrome portfolio pieces
 
@@ -104,6 +108,8 @@ A small art gallery, architectural photography, in the style of Tadao Ando, mast
 Luxury resort infinity pool overlooking a tropical coastline at sunset, contemporary tropical architecture, natural stone and rich teak wood, guests lounging, lush landscaping, panoramic ocean view, golden hour lighting, inviting and serene, professional photography
 ```
 
+![Example](../images/architecture/prompt-6-luxury-resort-infinity-pool.jpg)
+
 **Best for:** Resort marketing materials, hospitality pitch decks, travel editorial
 
 **Tips:** Combining material specificity ("natural stone and rich teak wood") with human presence ("guests lounging") creates aspirational lifestyle imagery. Golden hour lighting is one of V7's strongest rendering capabilities for warm, inviting scenes.
@@ -119,6 +125,8 @@ Luxury resort infinity pool overlooking a tropical coastline at sunset, contempo
 ```
 Interior architectural photography of a sunken living room in a minimalist home, featuring a plush sectional sofa and a statement marble fireplace, warm ambient lighting, a large window overlooking a rainy garden, cozy atmosphere, photorealistic, lens flare, depth of field
 ```
+
+![Example](../images/architecture/prompt-7-sunken-living-room-interior.jpg)
 
 **Best for:** Interior design portfolios, real estate marketing, home decor editorial
 
@@ -137,6 +145,8 @@ Interior architectural photography of a sunken living room in a minimalist home,
 ```
 Aerial masterplan visualization of a sustainable residential community, bird's-eye view, showing clusters of houses with green roofs, winding pathways, a central park with a pond, integrated into a forested landscape, sunny day, photorealistic, map-like detail
 ```
+
+![Example](../images/architecture/prompt-8-aerial-masterplan.jpg)
 
 **Best for:** Urban planning proposals, community development concepts, landscape architecture presentations
 

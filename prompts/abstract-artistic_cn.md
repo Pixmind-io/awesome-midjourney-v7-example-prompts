@@ -42,6 +42,8 @@ Macro photography of colored ink drops expanding in water, creating galaxy-like 
 **技巧：** 极高的 stylize (800) + 高 chaos (40) 每次都会产生截然不同的效果。
 
 
+![示例](../images/abstract/prompt-3-ink-in-water-galaxy.jpg)
+
 ---
 
 ## 绘画风与质感
@@ -56,6 +58,8 @@ A garden in full bloom painted in thick impasto brushstrokes, Claude Monet inspi
 **技巧：** stylize 达到 900 可以将绘画质感推到极致。指定艺术家（莫奈）可以引导风格方向。
 
 
+![示例](../images/abstract/prompt-4-impressionist-garden.jpg)
+
 ---
 
 ### 提示词 5：数字分形艺术
@@ -67,6 +71,8 @@ Intricate fractal art pattern, sacred geometry, metallic gold lines on deep navy
 **适用场景：** 海报、数字版画、冥想图像、周边商品
 **技巧：** "sacred geometry"（神圣几何）和 "mandala symmetry"（曼陀罗对称）可以强化重复图案的结构感。
 
+
+![示例](../images/abstract/prompt-5-digital-fractal-art.jpg)
 
 ---
 
@@ -81,6 +87,8 @@ Glitch art portrait of a woman, digital distortion, RGB color separation, pixel 
 **适用场景：** 专辑艺术、社交媒体视觉、数字艺术展览
 **技巧：** V7 对 "glitch"（故障效果）和 "RGB separation"（RGB 分离）的处理比之前版本更好，能产生更有意图感的扭曲效果。
 
+
+![示例](../images/abstract/prompt-6-glitch-art-portrait.jpg)
 
 ---
 

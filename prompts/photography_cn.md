@@ -51,6 +51,8 @@ A hyper-realistic cinematic portrait of a handsome man with a rugged jawline and
 
 **适用场景：** 电影海报、角色概念、戏剧性作品集
 
+
+![示例](../images/photography/prompt-3-hyper-realistic-cinematic-portrait.jpg)
 **技巧：** "Dramatic side lighting"（戏剧性侧光）营造强烈的明暗对比效果。浅景深将视觉焦点集中在面部特征上，增添电影虚化感。
 
 
@@ -86,6 +88,8 @@ Rainy night street scene in Tokyo, reflections on wet pavement, neon signs refle
 
 **适用场景：** 氛围感城市场景、赛博朋克风格、故事性视觉
 
+
+![示例](../images/photography/prompt-5-urban-night-rain.jpg)
 **技巧：** "35mm film" 和 "grain texture" 组合增添胶片质感。霓虹灯在湿润路面上的反射是 Midjourney 的强项，可大胆利用。
 
 
@@ -102,6 +106,8 @@ A cyclist silhouetted against golden hour light on a bridge, city skyline in bac
 
 **适用场景：** 生活方式影像、旅行内容、城市纪实
 
+
+![示例](../images/photography/prompt-6-golden-hour-commuter.jpg)
 **技巧：** 引用 Leica M11 可产生独特的旁轴相机美学，画面自然真实。金色光线下的剪影效果在 V7 中非常稳定可靠。
 
 
@@ -120,6 +126,8 @@ Close-up of ocean wave crashing against rocks, frozen in time, water droplets su
 
 **适用场景：** 自然主题印刷、编辑背景、环保故事视觉
 
+
+![示例](../images/photography/prompt-7-ocean-wave-detail.jpg)
 **技巧：** "Frozen in time" 暗示高速快门效果。"Backlight"（逆光）和 "translucent"（半透明）组合可创造出水流透光的视觉效果，Midjourney 对此渲染效果极佳。
 
 
@@ -136,6 +144,8 @@ Morning mist filtering through an ancient redwood forest, rays of sunlight pierc
 
 **适用场景：** 风景印刷、冥想视觉、环保宣传
 
+
+![示例](../images/photography/prompt-8-misty-forest-morning.jpg)
 **技巧：** "Long exposure"（长曝光）为雾气增添丝滑、空灵的质感。较高的风格化值（300）增强氛围感而不失真实感。
 
 
@@ -154,6 +164,8 @@ Orbital product photography of a luxury chronograph watch on dark marble, single
 
 **适用场景：** 电商主图、奢侈品牌素材、产品目录
 
+
+![示例](../images/photography/prompt-9-luxury-watch-studio.jpg)
 **技巧：** 低风格化值（100）和 `--c 0` 使输出更可控、结果更一致。"Single spotlight"（单聚光灯）在金属和玻璃表面产生高级感的反射效果。
 
 
@@ -170,6 +182,8 @@ Minimalist product shot of a skincare serum bottle on white marble, soft natural
 
 **适用场景：** 美妆品牌、社交媒体产品图、简约生活方式
 
+
+![示例](../images/photography/prompt-10-skincare-minimalist.jpg)
 **技巧：** 龟背竹叶影是产品摄影的经典元素，Midjourney 能很好地呈现。"Soft natural light from left" 营造柔和的方向光，非常适合美妆类产品。
 
 

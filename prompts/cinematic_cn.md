@@ -33,6 +33,8 @@ Aerial drone shot of an alpine valley with snow-capped peaks and a winding river
 - **提示：** 适中的风格化（250）在真实感与美感之间取得平衡。混乱度设为 20 会在云层和雾气中引入细微变化，呈现更自然的效果。是航拍全景序列的理想起点。
 
 
+
+![示例](../images/cinematic/aerial-alpine-valley.jpg)
 ---
 
 ## 3. 赛博朋克东京跟踪镜头
@@ -77,6 +79,8 @@ Slow push-in on artisan hands crafting a latte, steam rising, warm morning light
 - **提示：** 竖屏格式（9:16）是社交快拍和短视频平台的理想选择。浅景深将注意力集中在手部和拉花艺术上。暖色调配合 V7 改进的纹理渲染，使蒸汽和奶泡看起来极其逼真。
 
 
+
+![示例](../images/cinematic/push-in-coffee-craft.jpg)
 ---
 
 ## 6. 黑色侦探场景
@@ -91,6 +95,8 @@ Film noir style detective standing in a doorway, venetian blind shadows across f
 - **提示：** 高风格化（400）增强了黑色电影核心的戏剧性对比和阴影效果。V7 能理解"百叶窗阴影"这一电影意象，无需额外解释。黑白模式加上高对比度呈现经典黑色电影美学。
 
 
+
+![示例](../images/cinematic/noir-detective-scene.jpg)
 ---
 
 ## 7. 科幻走廊
@@ -105,6 +111,8 @@ Wide shot of a futuristic spacecraft corridor, emergency red lighting, steam ven
 - **提示：** 超宽 21:9 比例模仿变形宽银幕电影画幅，非常适合建立科幻环境。指定导演名字（"Ridley Scott inspired"）为 V7 提供强烈的风格锚点。镜头光晕和变形镜头关键词增强了电影级摄影感。
 
 
+
+![示例](../images/cinematic/sci-fi-corridor.jpg)
 ---
 
 ## 参数快速参考

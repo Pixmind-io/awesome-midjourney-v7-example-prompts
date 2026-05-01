@@ -37,6 +37,8 @@ A cartoon dog character in classic Hanna-Barbera style, bright colors, groovy 19
 **适用场景：** 复古卡通设计、怀旧角色创作、动画风格研究。
 **技巧解析：** 直接指明特定工作室（"汉纳-巴伯拉"）为 Midjourney 提供了精确的视觉目标，而非泛泛的"卡通"风格。"复古赛璐珞动画质感"模拟了手绘动画中物理透明胶片的绘制效果，增添了真实感。"70年代时尚美学"则暗示了那个时代的配色方案和设计风格。
 
+
+![示例](../images/anime/prompt-3-classic-cartoon-character.jpg)
 ---
 
 ### 提示词 4：水彩故事书
@@ -48,6 +50,8 @@ A cozy cottage in the woods with smoke coming from chimney, children's storybook
 **适用场景：** 儿童读物插画、温馨氛围艺术、水彩风格印刷品。
 **技巧解析：** `--s 400` 高风格化值推动 Midjourney 产生更具艺术感的绘画效果。"柔和的水彩风格"结合"温暖的粉彩色调"营造出温柔、亲切的配色。4:5 竖版比例非常适合书籍页面排版和社交媒体分享。
 
+
+![示例](../images/anime/prompt-4-watercolor-storybook.jpg)
 ---
 
 ### 提示词 5：漫画动作分镜
@@ -58,3 +62,5 @@ Dynamic manga action panel, samurai mid-strike with katana, speed lines, dramati
 ```
 **适用场景：** 漫画风格动作场景、单色插画研究、漫画分镜设计。
 **技巧解析：** `--style raw` 降低了 Midjourney 的默认美化处理，这对于正宗漫画风格至关重要——漫画依赖强烈的明暗对比而非平滑的过渡。"速度线"和"网点纸效果"是漫画专用的视觉术语，V7 能够准确理解。明确"黑白"配合"高对比度"确保产生富有戏剧性的单色效果。
+
+![示例](../images/anime/prompt-5-manga-action-panel.jpg)

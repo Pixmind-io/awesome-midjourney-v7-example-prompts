@@ -29,6 +29,8 @@ Minimalist logo design for a coffee shop called "Bloom", clean sans-serif typogr
 **技巧：** 使用 `--style raw` 可以获得更精确的文字渲染。"Sans-serif"（无衬线体）有助于保持字母更清晰。
 
 
+![示例](../images/text/prompt-2-minimalist-brand-logo.jpg)
+
 ---
 
 ## 情绪板与排版
@@ -43,6 +45,8 @@ Interior design moodboard for a modern Scandinavian living room, neutral tones, 
 **技巧：** 情绪板风格的提示词效果很好，因为 V7 能理解拼贴/排版的布局概念。
 
 
+![示例](../images/text/prompt-3-interior-design-moodboard.jpg)
+
 ---
 
 ### 提示词 4：时尚品牌 Lookbook
@@ -54,6 +58,8 @@ Fashion brand lookbook layout page, featuring a model in oversized cream linen o
 **适用场景：** 时尚品牌、Lookbook 概念、编辑排版
 **技巧：** "Polaroid-style"（宝丽来风格）和 "handwritten notes"（手写笔记）可以创建剪贴簿/Lookbook 的感觉，而不需要精确的文字。
 
+
+![示例](../images/text/prompt-4-fashion-brand-lookbook.jpg)
 
 ---
 
@@ -81,6 +87,8 @@ The same modern cabin with a cantilevered roof, shown in four seasonal variation
 **适用场景：** 客户提案、季节性营销、设计对比
 **技巧：** "Consistent camera angle"（一致的拍摄角度）有助于 V7 在四个面板中保持相同的视角。使用 `--style raw` 可以获得更准确的建筑渲染效果。
 
+
+![示例](../images/text/prompt-6-four-seasons-comparison.jpg)
 
 ---
 

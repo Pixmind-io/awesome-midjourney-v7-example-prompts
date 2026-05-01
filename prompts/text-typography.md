@@ -28,6 +28,8 @@ Minimalist logo design for a coffee shop called "Bloom", clean sans-serif typogr
 **Best for:** Logo concepts, brand identity mockups, startup pitches
 **Tips:** Use `--style raw` for more literal text rendering. "Sans-serif" helps keep letters cleaner.
 
+![Example](../images/text/prompt-2-minimalist-brand-logo.jpg)
+
 
 ---
 
@@ -42,6 +44,8 @@ Interior design moodboard for a modern Scandinavian living room, neutral tones, 
 **Best for:** Interior design proposals, brand moodboards, client presentations
 **Tips:** Moodboard-style prompts work well because V7 understands the collage/layout concept.
 
+![Example](../images/text/prompt-3-interior-design-moodboard.jpg)
+
 
 ---
 
@@ -53,6 +57,8 @@ Fashion brand lookbook layout page, featuring a model in oversized cream linen o
 ```
 **Best for:** Fashion brands, lookbook concepts, editorial layouts
 **Tips:** "Polaroid-style" and "handwritten notes" create the scrapbook/lookbook feel without requiring precise text.
+
+![Example](../images/text/prompt-4-fashion-brand-lookbook.jpg)
 
 
 ---
@@ -80,6 +86,8 @@ The same modern cabin with a cantilevered roof, shown in four seasonal variation
 ```
 **Best for:** Client presentations, seasonal marketing, design comparison
 **Tips:** "Consistent camera angle" helps V7 maintain the same perspective across all four panels. Use `--style raw` for more accurate architectural rendering.
+
+![Example](../images/text/prompt-6-four-seasons-comparison.jpg)
 
 
 ---

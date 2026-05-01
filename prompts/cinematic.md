@@ -29,6 +29,8 @@ FPV drone racing through redwood forest, morning mist, golden sunlight, photorea
 Aerial drone shot of an alpine valley with snow-capped peaks and a winding river, dramatic side lighting creating long shadows, atmospheric haze in valley, golden hour --ar 16:9 --s 250 --c 20 --v 7
 ```
 
+![Example](../images/cinematic/aerial-alpine-valley.jpg)
+
 - **Best for:** Establishing shots, travel documentaries
 - **Tips:** Moderate stylize (250) balances realism with beauty. Chaos at 20 introduces slight variation in cloud and haze patterns, giving a more organic feel. Great starting point for aerial panorama sequences.
 
@@ -73,6 +75,8 @@ Low angle hero shot of a warrior standing on a cliff edge overlooking a vast fan
 Slow push-in on artisan hands crafting a latte, steam rising, warm morning light from cafe window, photorealistic, shallow depth of field --ar 9:16 --s 300 --v 7
 ```
 
+![Example](../images/cinematic/push-in-coffee-craft.jpg)
+
 - **Best for:** Process videos, artisan content
 - **Tips:** Vertical format (9:16) is ideal for social stories and short-form video platforms. Shallow depth of field draws attention to the hands and latte art. Warm tones paired with V7's improved texture rendering make steam and foam look incredibly realistic.
 
@@ -87,6 +91,8 @@ Slow push-in on artisan hands crafting a latte, steam rising, warm morning light
 Film noir style detective standing in a doorway, venetian blind shadows across face, cigarette smoke, rain outside window, black and white, high contrast --ar 16:9 --s 400 --v 7
 ```
 
+![Example](../images/cinematic/noir-detective-scene.jpg)
+
 - **Best for:** Film tributes, mood pieces, editorial
 - **Tips:** High stylize (400) enhances the dramatic contrast and shadow play essential to film noir. V7 understands "venetian blind shadows" as a cinematic motif without needing additional explanation. Black and white combined with high contrast produces classic noir aesthetics.
 
@@ -100,6 +106,8 @@ Film noir style detective standing in a doorway, venetian blind shadows across f
 ```
 Wide shot of a futuristic spacecraft corridor, emergency red lighting, steam vents, lens flare, Ridley Scott inspired, anamorphic lens --ar 21:9 --s 350 --v 7
 ```
+
+![Example](../images/cinematic/sci-fi-corridor.jpg)
 
 - **Best for:** Sci-fi concepts, game design, film previsualization
 - **Tips:** Ultra-wide 21:9 aspect ratio mimics anamorphic cinema framing, ideal for establishing sci-fi environments. Naming a director ("Ridley Scott inspired") gives V7 a strong style anchor. Lens flare and anamorphic keywords enhance the cinematic camera feel.

@@ -33,6 +33,8 @@ POV shot from inside a massive ocean wave barrel, crystal clear turquoise water,
 - **提示：** "从内部第一人称视角"是一个强大的构图工具，V7 能很好地解读为沉浸式视角。"阳光折射"与"清澈绿松石色"的组合促使 V7 渲染出逼真的水中光线效果。广角关键词增加了管浪的戏剧性弧度。
 
 
+
+![示例](../images/nature/ocean-wave-barrel.jpg)
 ---
 
 ## 3. 极光
@@ -62,6 +64,8 @@ Endless sand dunes at sunset, Sahara desert, warm orange and deep purple gradien
 - **提示：** "《国家地理》摄影风格"是一个强大的风格锚点，告诉 V7 优先考虑构图和自然之美。"孤独的骆驼队剪影"在广袤沙丘中提供了强烈的视觉焦点。日落渐变（橙色到紫色）是 V7 的强项——该模型渲染色彩过渡非常流畅。
 
 
+
+![示例](../images/nature/desert-sand-dunes.jpg)
 ---
 
 ## 5. 樱花小径
@@ -76,6 +80,8 @@ Winding path through a cherry blossom tunnel in Kyoto, petals falling, soft morn
 - **提示：** "斑驳阴影"是一个特定的光线关键词，V7 能以惊人的准确度渲染——透过花瓣和树叶的散射光线。"花瓣飘落"为原本静态的场景增添了动感和生命力。风格化保持在 350 以维持樱花的柔美特质，避免过度饱和粉色调。
 
 
+
+![示例](../images/nature/cherry-blossom-path.jpg)
 ---
 
 ## 参数快速参考

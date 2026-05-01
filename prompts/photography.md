@@ -49,6 +49,8 @@ Cinematic portrait of an elderly fisherman with weathered hands and deep wrinkle
 A hyper-realistic cinematic portrait of a handsome man with a rugged jawline and short, messy dark hair, wearing dark round sunglasses and a textured leather jacket, dramatic side lighting, shallow depth of field
 ```
 
+![Example](../images/photography/prompt-3-hyper-realistic-cinematic-portrait.jpg)
+
 **Best for:** Movie posters, character concepts, dramatic portfolio shots
 
 **Tips:** "Dramatic side lighting" creates strong chiaroscuro contrast. Shallow depth of field draws focus to facial features and adds cinematic blur.
@@ -84,6 +86,8 @@ Man walking his dog on a street, you can see his full body, like an old vintage 
 Rainy night street scene in Tokyo, reflections on wet pavement, neon signs reflecting in puddles, lone figure with umbrella, shot on 35mm film, grain texture
 ```
 
+![Example](../images/photography/prompt-5-urban-night-rain.jpg)
+
 **Best for:** Moody urban scenes, cyberpunk aesthetics, atmospheric storytelling
 
 **Tips:** "35mm film" and "grain texture" together add analog authenticity. Neon reflections on wet surfaces are a Midjourney strength -- lean into it.
@@ -99,6 +103,8 @@ Rainy night street scene in Tokyo, reflections on wet pavement, neon signs refle
 ```
 A cyclist silhouetted against golden hour light on a bridge, city skyline in background, warm orange tones, documentary photography, shot on Leica M11
 ```
+
+![Example](../images/photography/prompt-6-golden-hour-commuter.jpg)
 
 **Best for:** Lifestyle imagery, travel content, urban documentary
 
@@ -118,6 +124,8 @@ A cyclist silhouetted against golden hour light on a bridge, city skyline in bac
 Close-up of ocean wave crashing against rocks, frozen in time, water droplets suspended in air, backlight creating translucent green water, nature photography
 ```
 
+![Example](../images/photography/prompt-7-ocean-wave-detail.jpg)
+
 **Best for:** Nature prints, editorial backgrounds, environmental storytelling
 
 **Tips:** "Frozen in time" suggests high shutter speed. "Backlight" and "translucent" together create the glowing-through-water effect that Midjourney renders beautifully.
@@ -133,6 +141,8 @@ Close-up of ocean wave crashing against rocks, frozen in time, water droplets su
 ```
 Morning mist filtering through an ancient redwood forest, rays of sunlight piercing through canopy, ferns on forest floor, long exposure, nature photography
 ```
+
+![Example](../images/photography/prompt-8-misty-forest-morning.jpg)
 
 **Best for:** Landscape prints, meditation visuals, environmental campaigns
 
@@ -152,6 +162,8 @@ Morning mist filtering through an ancient redwood forest, rays of sunlight pierc
 Orbital product photography of a luxury chronograph watch on dark marble, single spotlight from above creating premium reflections, studio lighting, photorealistic
 ```
 
+![Example](../images/photography/prompt-9-luxury-watch-studio.jpg)
+
 **Best for:** E-commerce hero shots, luxury brand assets, catalog imagery
 
 **Tips:** Low stylize (100) and `--c 0` keep the output controlled and repeatable. "Single spotlight" creates dramatic, premium-looking reflections on metal and glass surfaces.
@@ -167,6 +179,8 @@ Orbital product photography of a luxury chronograph watch on dark marble, single
 ```
 Minimalist product shot of a skincare serum bottle on white marble, soft natural light from left, single monstera leaf shadow, clean and modern aesthetic
 ```
+
+![Example](../images/photography/prompt-10-skincare-minimalist.jpg)
 
 **Best for:** Beauty brands, social media product posts, clean lifestyle content
 

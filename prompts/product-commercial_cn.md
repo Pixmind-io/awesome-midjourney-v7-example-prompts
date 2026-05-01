@@ -53,6 +53,8 @@ An electric bicycle designed for city commuters, modern style, white and silver 
 
 **适用场景：** 产品概念演示、工业设计作品集、创业路演
 
+
+![示例](../images/product/prompt-3-electric-bike-concept.jpg)
 **技巧：** `--style raw` 降低 Midjourney 的艺术化处理，呈现更纯粹的产品概念效果。"White and silver color palette"（白银配色）使设计更聚焦、更专业。16:9 宽幅比例提供充足的横向展示空间。
 
 
@@ -71,6 +73,8 @@ A minimalist Instagram ad for a skincare brand, pastel color palette, with a bot
 
 **适用场景：** 社交媒体广告、Instagram 推广活动、品牌发布素材
 
+
+![示例](../images/product/prompt-4-skincare-ad-with-text.jpg)
 **技巧：** Midjourney V7 的文字渲染能力已显著提升——像 "Glow Daily" 这样的简短标语可以可靠生成。4:5 比例是 Instagram 竖版广告的最佳格式。"Minimalist"（极简）搭配 "pastel"（柔和色调）营造出美妆营销中常见的清新现代感。
 
 
@@ -87,6 +91,8 @@ Floating sneaker display against gradient background, Nike-style athletic shoe, 
 
 **适用场景：** 运动鞋广告、产品发布预告、街头潮牌营销
 
+
+![示例](../images/product/prompt-5-sneaker-floating-display.jpg)
 **技巧：** "Floating"（悬浮）和 "dramatic bottom lighting"（戏剧性底部光源）营造出高端、吸睛的产品发布美学。"Ultra-detailed texture"（超精细纹理）确保网面、皮革和橡胶等材质被渲染得真实可信。渐变背景保持视觉焦点集中在产品上。
 
 
@@ -105,6 +111,8 @@ Artisan flat lay food photography, sourdough bread, aged cheese, fresh herbs, wo
 
 **适用场景：** 餐厅菜单、美食博客内容、手工品牌视觉、社交媒体美食帖子
 
+
+![示例](../images/product/prompt-6-food-photography-flat-lay.jpg)
 **技巧：** "Flat lay"（俯拍平铺）是 V7 熟练掌握的构图术语，能稳定生成整齐的俯视排列。"Natural morning light from window"（窗户自然晨光）营造美食摄影师偏爱的温暖方向光。方形格式非常适合 Instagram 九宫格发布。
 
 
