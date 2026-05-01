@@ -1,8 +1,8 @@
 # Midjourney V7 Prompts — 63+ Copy-Paste Examples with Images
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/awesome-midjourney-v7?style=social)](https://github.com/yourusername/awesome-midjourney-v7)
-[![Last Updated](https://img.shields.io/badge/Updated-2026--05-blue)](https://github.com/yourusername/awesome-midjourney-v7)
+[![GitHub stars](https://img.shields.io/github/stars/pixmind-io/awesome-midjourney-v7?style=social)](https://github.com/pixmind-io/awesome-midjourney-v7)
+[![Last Updated](https://img.shields.io/badge/Updated-2026--05-blue)](https://github.com/pixmind-io/awesome-midjourney-v7)
 [![中文](https://img.shields.io/badge/中文-README_CN-red)](README_CN.md)
 
 > The largest open-source collection of **Midjourney V7 prompts** with generated images. 63+ tested, copy-paste ready prompt examples across 10 categories — photography, cinematic, architecture, anime, 3D, concept art, and more. Includes parameter guides, fill-in-the-blank templates, and a complete prompt engineering tutorial. Bilingual English + 中文.

@@ -1,7 +1,7 @@
 # Midjourney V7 提示词 — 63+ 可复制示例（含效果图）
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/awesome-midjourney-v7-example-prompts?style=social)](https://github.com/yourusername/awesome-midjourney-v7-example-prompts)
+[![GitHub stars](https://img.shields.io/github/stars/pixmind-io/awesome-midjourney-v7-example-prompts?style=social)](https://github.com/pixmind-io/awesome-midjourney-v7-example-prompts)
 [![English](https://img.shields.io/badge/English-README-blue)](README.md)
 
 > 最大的开源 **Midjourney V7 提示词**合集。63+ 条经过测试的提示词，附生成效果图，覆盖摄影、电影、建筑、动漫、3D、概念艺术等 10 个分类。可直接复制使用。含参数指南、填空模板和提示词工程教程。

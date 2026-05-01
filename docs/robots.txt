@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourusername.github.io/awesome-midjourney-v7-example-prompts/sitemap.xml
+Sitemap: https://pixmind-io.github.io/awesome-midjourney-v7-example-prompts/sitemap.xml
