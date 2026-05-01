@@ -41,7 +41,6 @@ Macro photography of colored ink drops expanding in water, creating galaxy-like 
 **适用场景：** 背景图、壁纸、专辑艺术、冥想视觉素材
 **技巧：** 极高的 stylize (800) + 高 chaos (40) 每次都会产生截然不同的效果。
 
-![示例](../images/abstract/ink-galaxy.jpg)
 
 ---
 
@@ -56,7 +55,6 @@ A garden in full bloom painted in thick impasto brushstrokes, Claude Monet inspi
 **适用场景：** 艺术版画、墙面装饰、艺术灵感
 **技巧：** stylize 达到 900 可以将绘画质感推到极致。指定艺术家（莫奈）可以引导风格方向。
 
-![示例](../images/abstract/impressionist-garden.jpg)
 
 ---
 
@@ -69,7 +67,6 @@ Intricate fractal art pattern, sacred geometry, metallic gold lines on deep navy
 **适用场景：** 海报、数字版画、冥想图像、周边商品
 **技巧：** "sacred geometry"（神圣几何）和 "mandala symmetry"（曼陀罗对称）可以强化重复图案的结构感。
 
-![示例](../images/abstract/fractal-art.jpg)
 
 ---
 
@@ -84,7 +81,6 @@ Glitch art portrait of a woman, digital distortion, RGB color separation, pixel 
 **适用场景：** 专辑艺术、社交媒体视觉、数字艺术展览
 **技巧：** V7 对 "glitch"（故障效果）和 "RGB separation"（RGB 分离）的处理比之前版本更好，能产生更有意图感的扭曲效果。
 
-![示例](../images/abstract/glitch-portrait.jpg)
 
 ---
 
@@ -92,4 +88,4 @@ Glitch art portrait of a woman, digital distortion, RGB color separation, pixel 
 
 - [抽象 SREF 风格代码](../guide/sref-style-codes.md) — 适合抽象美学的风格代码
 - [参数指南：Stylize](../parameters/stylize-comparison.md) — --s 值如何影响抽象艺术效果
-- [模板：抽象艺术](../templates/abstract-template.md) — 创建你自己的抽象提示词
+- [模板：风景与抽象](../templates/landscape-template.md) — 改编为抽象构图

@@ -24,7 +24,7 @@ Create a dark fantasy poster with a young red-haired woman surrounded by mystica
 ```
 **适用场景：** 奇幻海报设计、哥特风格角色肖像、暗黑主题书籍封面。
 **技巧解析：** `--s 250` 风格化值在艺术表现力和连贯的海报构图之间取得平衡。"哥特美学"结合"戏剧性光照"确保深邃的阴影和富有情绪的高光。提示词中的"海报"告诉 Midjourney 设计时要突出中心焦点，采用氛围化的画面框架，而非平淡的场景。
-![示例](../images/concept-art/dark-fantasy-poster.jpg)
+![示例](../images/concept-art/dark-fantasy.jpg)
 
 ---
 
@@ -36,7 +36,6 @@ Create a dark fantasy poster with a young red-haired woman surrounded by mystica
 ```
 **适用场景：** 经典奇幻插画、海报艺术、复古奇幻书籍封面。
 **技巧解析：** 引用"弗兰克·弗雷泽塔"可以针对非常具体的绘画风格——肌肉饱满的形象和戏剧性的构图。高 `--s 400` 风格化值放大了油画质感和丰富的琥珀色调。2:3 竖版比例匹配经典电影海报的尺寸。"浓重的阴影"确保了弗雷泽塔作品核心的明暗对比效果。
-![示例](../images/concept-art/frazetta-fantasy.jpg)
 
 ---
 
@@ -48,7 +47,6 @@ A young girl with short black hair and green eyes wearing a yellow raincoat, hol
 ```
 **适用场景：** 角色设计一致性测试、儿童读物插画、角色参考图。
 **技巧解析：** 此提示词专为一致性测试设计——多次运行以评估 V7 在不同生成中保持角色关键特征（黑色短发、绿色眼睛、黄色雨衣）的能力。"儿童读物插画风格"保持柔和、亲切的美学。4:5 比例非常适合以角色为中心的构图。
-![示例](../images/concept-art/character-consistency.jpg)
 
 ---
 
@@ -60,4 +58,3 @@ Cyberpunk female hacker character design sheet, multiple poses, neon pink and bl
 ```
 **适用场景：** 角色设计图、赛博朋克概念艺术、游戏角色开发。
 **技巧解析：** "角色设计图"和"多个姿势"指示 V7 生成多角度展示布局，而非单张插画。`--style raw` 保持输出干净专业，避免过度风格化导致设计细节模糊不清。"干净的白色背景"将角色隔离出来便于参考使用。"全息UI元素"增添了该题材特有的视觉趣味。
-![示例](../images/concept-art/cyberpunk-character.jpg)

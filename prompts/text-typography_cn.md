@@ -28,7 +28,6 @@ Minimalist logo design for a coffee shop called "Bloom", clean sans-serif typogr
 **适用场景：** Logo 概念、品牌形象设计稿、创业路演
 **技巧：** 使用 `--style raw` 可以获得更精确的文字渲染。"Sans-serif"（无衬线体）有助于保持字母更清晰。
 
-![示例](../images/text/brand-logo.jpg)
 
 ---
 
@@ -43,7 +42,6 @@ Interior design moodboard for a modern Scandinavian living room, neutral tones, 
 **适用场景：** 室内设计方案、品牌情绪板、客户提案
 **技巧：** 情绪板风格的提示词效果很好，因为 V7 能理解拼贴/排版的布局概念。
 
-![示例](../images/text/interior-moodboard.jpg)
 
 ---
 
@@ -56,7 +54,6 @@ Fashion brand lookbook layout page, featuring a model in oversized cream linen o
 **适用场景：** 时尚品牌、Lookbook 概念、编辑排版
 **技巧：** "Polaroid-style"（宝丽来风格）和 "handwritten notes"（手写笔记）可以创建剪贴簿/Lookbook 的感觉，而不需要精确的文字。
 
-![示例](../images/text/fashion-lookbook.jpg)
 
 ---
 
@@ -84,7 +81,6 @@ The same modern cabin with a cantilevered roof, shown in four seasonal variation
 **适用场景：** 客户提案、季节性营销、设计对比
 **技巧：** "Consistent camera angle"（一致的拍摄角度）有助于 V7 在四个面板中保持相同的视角。使用 `--style raw` 可以获得更准确的建筑渲染效果。
 
-![示例](../images/text/four-seasons.jpg)
 
 ---
 
@@ -104,4 +100,4 @@ The same modern cabin with a cantilevered roof, shown in four seasonal variation
 ## 更多资源
 
 - [V7 新功能指南](../guide/v7-new-features.md) — V7 中改进的文字理解能力
-- [模板：海报设计](../templates/poster-template.md) — 创建你自己的文字提示词
+- [模板：人像与海报](../templates/portrait-template.md) — 改编为文字/海报设计

@@ -19,7 +19,7 @@ Orbital product photography of a luxury chronograph watch on dark marble, single
 
 **Tips:** Low stylize (100) and `--c 0` keep the output controlled and repeatable. "Single spotlight" creates dramatic, premium-looking reflections on metal and glass surfaces. The square ratio is ideal for product grids and marketplace listings.
 
-![Example](../images/product/luxury-chronograph.jpg)
+![Example](../images/product/luxury-watch.jpg)
 
 ---
 
@@ -55,7 +55,6 @@ An electric bicycle designed for city commuters, modern style, white and silver 
 
 **Tips:** `--style raw` reduces Midjourney's artistic embellishment, delivering a cleaner product concept look. "White and silver color palette" keeps the design focused and professional. The 16:9 ratio provides horizontal space ideal for product showcases.
 
-![Example](../images/product/electric-bike.jpg)
 
 ---
 
@@ -74,7 +73,6 @@ A minimalist Instagram ad for a skincare brand, pastel color palette, with a bot
 
 **Tips:** Midjourney V7 has improved text rendering -- short taglines like "Glow Daily" generate reliably. The 4:5 ratio is the optimal Instagram portrait format. "Minimalist" combined with "pastel" creates the clean, modern aesthetic expected in beauty marketing.
 
-![Example](../images/product/skincare-ad.jpg)
 
 ---
 
@@ -91,7 +89,6 @@ Floating sneaker display against gradient background, Nike-style athletic shoe, 
 
 **Tips:** "Floating" and "dramatic bottom lighting" create a premium, attention-grabbing product reveal aesthetic. "Ultra-detailed texture" ensures materials like mesh, leather, and rubber are rendered with convincing realism. Gradient backgrounds keep focus on the product.
 
-![Example](../images/product/sneaker-floating.jpg)
 
 ---
 
@@ -110,6 +107,5 @@ Artisan flat lay food photography, sourdough bread, aged cheese, fresh herbs, wo
 
 **Tips:** "Flat lay" is a well-understood composition term in V7 that produces consistent overhead arrangements. "Natural morning light from window" creates the warm, directional lighting that food photographers favor. Square format is perfect for Instagram grid posts.
 
-![Example](../images/product/food-flat-lay.jpg)
 
 ---

@@ -24,7 +24,7 @@ A girl standing in a mystical forest, anime illustration style, vibrant colors, 
 ```
 **Best for:** Character-focused anime art, exploring SREF style codes for consistent illustration aesthetics.
 **Tips:** The `--sref 7435` style reference code locks in a specific illustration style across multiple generations. Combining "cel shading" and "detailed eyes" pushes the output toward authentic anime rendering rather than a semi-realistic hybrid. "Dynamic pose" prevents static, stiff results.
-![Example](../images/anime/forest-girl-sref.jpg)
+![Example](../images/anime/anime-forest-girl.jpg)
 
 ---
 
@@ -36,7 +36,6 @@ A cartoon dog character in classic Hanna-Barbera style, bright colors, groovy 19
 ```
 **Best for:** Retro cartoon designs, nostalgic character creation, animation style studies.
 **Tips:** Naming a specific studio ("Hanna-Barbera") gives Midjourney a precise visual target rather than a generic "cartoon" look. "Retro animation cel look" simulates the physical painted transparency effect of hand-drawn animation, adding authenticity. The "groovy 1970s aesthetic" cues color palettes and design sensibilities of that era.
-![Example](../images/anime/classic-cartoon.jpg)
 
 ---
 
@@ -48,7 +47,6 @@ A cozy cottage in the woods with smoke coming from chimney, children's storybook
 ```
 **Best for:** Children's book illustrations, cozy atmosphere art, watercolor-style prints.
 **Tips:** The `--s 400` stylize value pushes Midjourney toward a more artistic, painterly interpretation. "Soft watercolor style" combined with "warm pastel colors" creates a gentle, inviting palette. The 4:5 portrait ratio is ideal for book page layouts and social media sharing.
-![Example](../images/anime/watercolor-storybook.jpg)
 
 ---
 
@@ -60,4 +58,3 @@ Dynamic manga action panel, samurai mid-strike with katana, speed lines, dramati
 ```
 **Best for:** Manga-style action scenes, monochrome illustration studies, comic panel design.
 **Tips:** `--style raw` reduces Midjourney's default beautification, which is critical for authentic manga that relies on stark contrast rather than smooth blending. "Speed lines" and "screentone" are manga-specific visual vocabulary that V7 understands. Specifying "black and white" with "high contrast" ensures a dramatic monochrome result.
-![Example](../images/anime/manga-action.jpg)

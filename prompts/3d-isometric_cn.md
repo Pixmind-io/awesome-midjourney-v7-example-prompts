@@ -36,7 +36,6 @@ Fantasy game, 16-bit pixel art --ar 16:9 --v 7
 ```
 **适用场景：** 复古游戏资产灵感、独立游戏情绪板、怀旧像素艺术研究。
 **技巧解析：** 极简表达在此处效果出色，因为"16位像素艺术"是一个高度具体的视觉风格，V7 可以精确理解。添加过多描述词反而会稀释像素艺术的美感。让 Midjourney 基于 SNES 时代游戏艺术的训练数据自行填充奇幻细节。
-![示例](../images/3d/pixel-art-fantasy.jpg)
 
 ---
 
@@ -48,7 +47,6 @@ Isometric cute miniature bedroom, pastel colors, kawaii aesthetic, cozy tiny fur
 ```
 **适用场景：** 温馨室内插画、可爱主题艺术品、微缩透视模型概念。
 **技巧解析：** 高 `--s 500` 风格化值增强了艺术魅力和柔和感。"粘土渲染风格"赋予物体哑光、有触感的质感，与可爱美学完美搭配。"柔和阴影"避免了破坏温柔氛围的强烈光线。1:1 正方形比例适合透视模型般的构图。
-![示例](../images/3d/isometric-room.jpg)
 
 ---
 
@@ -60,4 +58,3 @@ Exploded view of a running shoe, all components separated and floating, technica
 ```
 **适用场景：** 产品设计展示、技术插图、电商营销素材。
 **技巧解析：** 适中的 `--s 150` 风格化值保持结果干净、图表化，而非过度艺术化。"爆炸图"是一个精确的技术术语，V7 理解为组件在空间中展开分离的效果。"纯白背景"确保专业的工作室级品质，适合商业用途。1:1 比例非常适合产品目录和社交媒体。
-![示例](../images/3d/product-exploded.jpg)

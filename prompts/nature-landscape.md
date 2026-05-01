@@ -17,7 +17,7 @@ Crane shot descending over a misty mountain village at sunrise, traditional ston
 - **Best for:** Travel photography, fantasy world-building, cinematic establishing shots
 - **Tips:** The "crane shot descending" framing gives V7 a strong camera angle to work with. Stylize at 300 produces rich, atmospheric fog layers without over-stylizing the architecture. "Golden light breaking through fog" creates a natural depth gradient from foreground to background.
 
-![Misty Mountain Village](../images/nature-landscape/misty-mountain-village.jpg)
+![Misty Mountain Village](../images/nature/misty-village.jpg)
 
 ---
 
@@ -32,7 +32,6 @@ POV shot from inside a massive ocean wave barrel, crystal clear turquoise water,
 - **Best for:** Surf culture content, ocean photography, adrenaline sports media
 - **Tips:** "POV shot from inside" is a powerful framing device that V7 interprets well for immersive perspectives. The combination of "sunlight refracting" and "crystal clear turquoise" pushes V7 to render realistic light caustics through water. Wide angle keyword adds the dramatic barrel curve.
 
-![Ocean Wave Barrel](../images/nature-landscape/ocean-wave-barrel.jpg)
 
 ---
 
@@ -47,7 +46,7 @@ Aurora borealis time-lapse over a warm lit log cabin in the snowy wilderness, vi
 - **Best for:** Nature calendars, atmospheric mood pieces, Nordic/Arctic themed content
 - **Tips:** High stylize (500) is ideal here — aurora renders benefit from extra artistic interpretation. "Long exposure photography" tells V7 to create light trails and smooth water reflections. The warm cabin light against cold aurora creates compelling color contrast. V7 handles dual-light-source scenes exceptionally well.
 
-![Aurora Borealis](../images/nature-landscape/aurora-borealis.jpg)
+![Aurora Borealis](../images/nature/aurora-cabin.jpg)
 
 ---
 
@@ -62,7 +61,6 @@ Endless sand dunes at sunset, Sahara desert, warm orange and deep purple gradien
 - **Best for:** Travel editorials, documentary-style imagery, epic landscape art
 - **Tips:** "National Geographic photography style" is a powerful style anchor that tells V7 to prioritize composition and natural beauty. "Lone camel caravan silhouette" provides a strong focal point against the vast dunes. Sunset gradients (orange to purple) are one of V7's strengths — the model renders smooth color transitions beautifully.
 
-![Desert Sand Dunes](../images/nature-landscape/desert-sand-dunes.jpg)
 
 ---
 
@@ -77,7 +75,6 @@ Winding path through a cherry blossom tunnel in Kyoto, petals falling, soft morn
 - **Best for:** Travel blogs, seasonal content, Japanese culture imagery
 - **Tips:** "Dappled shadows" is a specific lighting keyword that V7 renders with impressive accuracy — scattered light through petals and leaves. "Petals falling" adds motion and life to an otherwise static scene. Keep stylize at 350 to maintain the delicate, soft quality of cherry blossoms without over-saturating the pink tones.
 
-![Cherry Blossom Path](../images/nature-landscape/cherry-blossom-path.jpg)
 
 ---
 

@@ -41,7 +41,6 @@ Macro photography of colored ink drops expanding in water, creating galaxy-like 
 **Best for:** Backgrounds, wallpapers, album art, meditation visuals
 **Tips:** Very high stylize (800) + high chaos (40) produces dramatically different results each time.
 
-![Example](../images/abstract/ink-galaxy.jpg)
 
 ---
 
@@ -56,7 +55,6 @@ A garden in full bloom painted in thick impasto brushstrokes, Claude Monet inspi
 **Best for:** Fine art prints, wall art, artistic inspiration
 **Tips:** Stylize at 900 pushes the painterly quality to maximum. Named artist reference (Monet) guides the style direction.
 
-![Example](../images/abstract/impressionist-garden.jpg)
 
 ---
 
@@ -69,7 +67,6 @@ Intricate fractal art pattern, sacred geometry, metallic gold lines on deep navy
 **Best for:** Posters, digital art prints, meditation imagery, merchandise
 **Tips:** "Sacred geometry" and "mandala symmetry" enforce the repeating pattern structure.
 
-![Example](../images/abstract/fractal-art.jpg)
 
 ---
 
@@ -84,7 +81,6 @@ Glitch art portrait of a woman, digital distortion, RGB color separation, pixel 
 **Best for:** Album art, social media visuals, digital art exhibitions
 **Tips:** V7 handles "glitch" and "RGB separation" better than previous versions, producing more intentional-looking distortions.
 
-![Example](../images/abstract/glitch-portrait.jpg)
 
 ---
 
@@ -92,4 +88,4 @@ Glitch art portrait of a woman, digital distortion, RGB color separation, pixel 
 
 - [Abstract SREF Codes](../guide/sref-style-codes.md) — Style codes for abstract aesthetics
 - [Parameter Guide: Stylize](../parameters/stylize-comparison.md) — How --s values affect abstract art
-- [Template: Abstract Art](../templates/abstract-template.md) — Create your own abstract prompts
+- [Template: Landscape & Abstract](../templates/landscape-template.md) — Adapt for abstract compositions

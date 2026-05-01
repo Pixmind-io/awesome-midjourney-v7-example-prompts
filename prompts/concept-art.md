@@ -24,7 +24,7 @@ Create a dark fantasy poster with a young red-haired woman surrounded by mystica
 ```
 **Best for:** Fantasy poster design, gothic character portraits, dark-themed book covers.
 **Tips:** The `--s 250` stylize value balances artistic flair with coherent poster composition. "Gothic aesthetic" combined with "dramatic lighting" ensures deep shadows and moody highlights. "Poster" in the prompt tells Midjourney to design for a strong central focal point with atmospheric framing, rather than a flat scene.
-![Example](../images/concept-art/dark-fantasy-poster.jpg)
+![Example](../images/concept-art/dark-fantasy.jpg)
 
 ---
 
@@ -36,7 +36,6 @@ Create a dark fantasy poster with a young red-haired woman surrounded by mystica
 ```
 **Best for:** Classic fantasy illustration, poster art, retro fantasy book covers.
 **Tips:** Referencing "Frank Frazetta" targets a very specific painterly style with muscular forms and dramatic composition. The high `--s 400` stylize value amplifies the oil painting texture and rich amber palette. The 2:3 portrait ratio matches classic movie poster dimensions. "Heavy shadows" ensures the chiaroscuro effect central to Frazetta's work.
-![Example](../images/concept-art/frazetta-fantasy.jpg)
 
 ---
 
@@ -48,7 +47,6 @@ A young girl with short black hair and green eyes wearing a yellow raincoat, hol
 ```
 **Best for:** Character design consistency testing, children's book illustration, character reference sheets.
 **Tips:** This prompt is designed for consistency testing — run it multiple times to evaluate how well V7 maintains the character's key traits (short black hair, green eyes, yellow raincoat) across generations. "Children's book illustration style" keeps the aesthetic soft and approachable. The 4:5 ratio is ideal for character-focused compositions.
-![Example](../images/concept-art/character-consistency.jpg)
 
 ---
 
@@ -60,4 +58,3 @@ Cyberpunk female hacker character design sheet, multiple poses, neon pink and bl
 ```
 **Best for:** Character design sheets, cyberpunk concept art, game character development.
 **Tips:** "Character design sheet" and "multiple poses" instruct V7 to generate a turnaround-style layout rather than a single illustration. `--style raw` keeps the output clean and professional, avoiding over-stylization that would obscure the design details. "Clean white background" isolates the character for reference use. "Holographic UI elements" add genre-specific visual interest.
-![Example](../images/concept-art/cyberpunk-character.jpg)

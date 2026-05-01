@@ -19,7 +19,7 @@ A serene wellness retreat nestled in a redwood forest, architectural photography
 
 **Tips:** "Cross-laminated timber" and "rammed earth" are specific material references that Midjourney renders with convincing texture. "Dappled sunlight" creates the natural forest light effect that adds atmosphere and realism.
 
-![Example](../images/architecture/sustainable-forest-retreat.jpg)
+![Example](../images/architecture/forest-retreat.jpg)
 
 ---
 
@@ -36,7 +36,6 @@ Architectural visualization of a modern glass extension added to a historic bric
 
 **Tips:** "Adaptive reuse" signals the juxtaposition of old and new materials. Dusk timing allows both warm interior light glow and cool exterior ambient light, creating a compelling contrast that showcases both elements of the design.
 
-![Example](../images/architecture/adaptive-reuse-warehouse.jpg)
 
 ---
 
@@ -72,7 +71,6 @@ A monumental brutalist library, raw concrete texture (beton brut), powerful geom
 
 **Tips:** Black and white removes color distraction and forces emphasis on form, shadow, and texture -- the core qualities of brutalist architecture. "Sharp morning light" creates the hard-edged shadows that define brutalist aesthetics.
 
-![Example](../images/architecture/brutalist-library.jpg)
 
 ---
 
@@ -110,7 +108,6 @@ Luxury resort infinity pool overlooking a tropical coastline at sunset, contempo
 
 **Tips:** Combining material specificity ("natural stone and rich teak wood") with human presence ("guests lounging") creates aspirational lifestyle imagery. Golden hour lighting is one of V7's strongest rendering capabilities for warm, inviting scenes.
 
-![Example](../images/architecture/luxury-resort-pool.jpg)
 
 ---
 
@@ -127,7 +124,6 @@ Interior architectural photography of a sunken living room in a minimalist home,
 
 **Tips:** The 4:5 portrait ratio works perfectly for interior vertical compositions. "Rainy garden" through the window creates a contrast between the warm interior and cool exterior, enhancing the cozy atmosphere. Lens flare and depth of field add photographic authenticity.
 
-![Example](../images/architecture/sunken-living-room.jpg)
 
 ---
 
@@ -146,6 +142,5 @@ Aerial masterplan visualization of a sustainable residential community, bird's-e
 
 **Tips:** "Bird's-eye view" combined with "map-like detail" produces clear, readable overhead compositions. The square 1:1 ratio is ideal for planning documents and presentation boards. "Integrated into a forested landscape" ensures the development feels connected to nature rather than imposed on it.
 
-![Example](../images/architecture/aerial-masterplan.jpg)
 
 ---
