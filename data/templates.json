@@ -1,0 +1,81 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-05-01",
+  "templates": [
+    {
+      "id": "portrait-editorial",
+      "category": "portrait",
+      "name": "Editorial Portrait",
+      "template": "Editorial portrait of {{subject}}, {{clothing}}, against {{background}}, shot on {{camera}}, {{lighting}}, {{color_tone}} --ar 4:5 --s {{stylize}} --v 7",
+      "variables": [
+        { "name": "subject", "description": "Person description", "examples": ["a woman in her 30s", "an elderly man", "a young dancer"] },
+        { "name": "clothing", "description": "Outfit description", "examples": ["wearing a bold red outfit", "in a tailored suit", "in casual linen"] },
+        { "name": "background", "description": "Setting", "examples": ["brutalist concrete wall", "garden", "urban rooftop"] },
+        { "name": "camera", "description": "Camera reference", "examples": ["Hasselblad medium format", "Leica M11", "Sony A7R V"] },
+        { "name": "lighting", "description": "Light setup", "examples": ["soft diffused lighting", "natural window light", "dramatic side lighting"] },
+        { "name": "color_tone", "description": "Color mood", "examples": ["desaturated palette", "warm earthy tones", "cool blue tones"] },
+        { "name": "stylize", "description": "Stylize value (250-400 recommended)", "examples": ["250", "300", "350"] }
+      ]
+    },
+    {
+      "id": "portrait-cinematic",
+      "category": "portrait",
+      "name": "Cinematic Character Portrait",
+      "template": "Cinematic portrait of {{subject}}, {{distinctive_features}}, {{environment}}, {{lighting}}, {{mood}}, {{film_style}} --ar 4:5 --s {{stylize}} --v 7",
+      "variables": [
+        { "name": "subject", "description": "Character type", "examples": ["a weathered explorer", "a mysterious woman", "a young warrior"] },
+        { "name": "distinctive_features", "description": "Notable details", "examples": ["deep wrinkles and kind eyes", "a scar across left cheek"] },
+        { "name": "environment", "description": "Background setting", "examples": ["coastal harbor at dawn", "dimly lit alley"] },
+        { "name": "lighting", "description": "Light description", "examples": ["golden hour backlight", "dramatic chiaroscuro"] },
+        { "name": "mood", "description": "Emotional tone", "examples": ["contemplative", "intense", "serene"] },
+        { "name": "film_style", "description": "Film reference", "examples": ["documentary photography", "cinematic film still"] },
+        { "name": "stylize", "description": "Stylize value (250-350 recommended)", "examples": ["250", "300", "350"] }
+      ]
+    },
+    {
+      "id": "landscape-grand",
+      "category": "landscape",
+      "name": "Grand Landscape",
+      "template": "{{time_of_day}} over {{terrain}}, {{weather_atmosphere}}, {{vegetation}}, {{camera_perspective}}, {{film_style}} --ar 16:9 --s {{stylize}} --v 7",
+      "variables": [
+        { "name": "time_of_day", "description": "Time and light", "examples": ["Golden hour", "Blue hour", "Midday sun"] },
+        { "name": "terrain", "description": "Geographic feature", "examples": ["alpine valley", "desert dunes", "coastal cliffs"] },
+        { "name": "weather_atmosphere", "description": "Atmospheric conditions", "examples": ["dramatic clouds", "morning mist", "clear sky"] },
+        { "name": "vegetation", "description": "Plant life", "examples": ["autumn foliage", "wildflower meadow", "snow-covered pines"] },
+        { "name": "camera_perspective", "description": "Camera angle", "examples": ["wide-angle panorama", "aerial drone view", "ground level"] },
+        { "name": "film_style", "description": "Photographic style", "examples": ["National Geographic style", "cinematic", "fine art photography"] },
+        { "name": "stylize", "description": "Stylize value (250-400 recommended)", "examples": ["300", "350", "400"] }
+      ]
+    },
+    {
+      "id": "product-studio",
+      "category": "product",
+      "name": "Studio Product Shot",
+      "template": "{{product_type}} on {{surface}}, {{lighting_setup}}, {{background}}, {{style}}, product photography, photorealistic --ar {{aspect}} --s {{stylize}} --c 0 --v 7",
+      "variables": [
+        { "name": "product_type", "description": "What product", "examples": ["luxury chronograph watch", "skincare serum bottle", "sneakers"] },
+        { "name": "surface", "description": "Display surface", "examples": ["dark marble", "white marble", "concrete"] },
+        { "name": "lighting_setup", "description": "Light configuration", "examples": ["single spotlight from above", "soft box lighting", "ring light"] },
+        { "name": "background", "description": "Background type", "examples": ["pure white background", "dark gradient", "studio backdrop"] },
+        { "name": "style", "description": "Aesthetic direction", "examples": ["minimalist", "luxury premium", "clean and modern"] },
+        { "name": "aspect", "description": "Aspect ratio", "examples": ["1:1", "4:5", "16:9"] },
+        { "name": "stylize", "description": "Stylize value (100-200 for products)", "examples": ["100", "150", "200"] }
+      ]
+    },
+    {
+      "id": "architecture-exterior",
+      "category": "architecture",
+      "name": "Exterior Architecture",
+      "template": "Architectural visualization of {{building_type}}, {{material_description}}, {{architectural_style}}, {{setting}}, {{time_of_day}}, {{lighting}}, photorealistic --ar {{aspect}} --v 7",
+      "variables": [
+        { "name": "building_type", "description": "Type of building", "examples": ["a contemporary art museum", "a sustainable residence", "a corporate headquarters"] },
+        { "name": "material_description", "description": "Materials used", "examples": ["glass and steel", "cross-laminated timber and rammed earth", "raw concrete"] },
+        { "name": "architectural_style", "description": "Style reference", "examples": ["minimalist", "brutalist", "parametric", "in the style of Tadao Ando"] },
+        { "name": "setting", "description": "Location context", "examples": ["in a dense urban setting", "nestled in a forest", "on a coastal cliff"] },
+        { "name": "time_of_day", "description": "Time of day", "examples": ["dusk", "golden hour", "midday"] },
+        { "name": "lighting", "description": "Light characteristics", "examples": ["cinematic lighting", "dramatic shadow play", "dappled sunlight"] },
+        { "name": "aspect", "description": "Aspect ratio", "examples": ["16:9", "4:3", "1:1"] }
+      ]
+    }
+  ]
+}

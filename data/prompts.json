@@ -1,0 +1,259 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-05-01",
+  "midjourney_version": "v7",
+  "prompts": [
+    {
+      "id": 1,
+      "category": "cinematic",
+      "title": "FPV Forest Flight",
+      "prompt": "FPV drone racing through redwood forest, morning mist, golden sunlight, photorealistic",
+      "parameters": { "--ar": "16:9", "--s": "300", "--v": "7" },
+      "best_for": ["Nature documentaries", "Adventure content", "Travel sequences"],
+      "tips": "Low chaos (15) maintains consistency across frames."
+    },
+    {
+      "id": 2,
+      "category": "cinematic",
+      "title": "Aerial Alpine Valley",
+      "prompt": "Aerial drone shot of an alpine valley with snow-capped peaks and a winding river, dramatic side lighting creating long shadows, atmospheric haze in valley, golden hour",
+      "parameters": { "--ar": "16:9", "--s": "250", "--c": "20", "--v": "7" },
+      "best_for": ["Establishing shots", "Travel documentaries", "Showcasing scale"],
+      "tips": "Moderate stylize (250) balances realism with beauty."
+    },
+    {
+      "id": 3,
+      "category": "cinematic",
+      "title": "Cyberpunk Tokyo Tracking",
+      "prompt": "Tracking shot through neon-lit Tokyo streets at night, rain-slicked pavement reflecting cyberpunk signs, crowds of people with umbrellas, cinematic, film grain",
+      "parameters": { "--ar": "16:9", "--s": "400", "--no": "crowds", "--v": "7" },
+      "best_for": ["Music videos", "Fashion content", "Cyberpunk aesthetics"],
+      "tips": "Higher stylize (400) enhances neon colors."
+    },
+    {
+      "id": 4,
+      "category": "cinematic",
+      "title": "Low Angle Hero Shot",
+      "prompt": "Low angle hero shot of a warrior standing on a cliff edge overlooking a vast fantasy landscape, dramatic rim lighting, windswept hair and cloak, golden hour",
+      "parameters": { "--ar": "9:16", "--s": "350", "--c": "5", "--v": "7" },
+      "best_for": ["Character introductions", "Promotional imagery"],
+      "tips": "9:16 perfect for mobile and social media."
+    },
+    {
+      "id": 5,
+      "category": "cinematic",
+      "title": "Push-In Coffee Craft",
+      "prompt": "Slow push-in on artisan hands crafting a latte, steam rising, warm morning light from cafe window, photorealistic, shallow depth of field",
+      "parameters": { "--ar": "9:16", "--s": "300", "--v": "7" },
+      "best_for": ["Process videos", "Artisan content"],
+      "tips": "Vertical format ideal for social stories."
+    },
+    {
+      "id": 6,
+      "category": "photography",
+      "title": "Editorial Fashion Portrait",
+      "prompt": "Editorial fashion portrait of a woman in a bold red outfit against a brutalist concrete wall, shot on Hasselblad medium format, soft diffused lighting, desaturated color palette",
+      "parameters": { "--ar": "4:5", "--s": "350", "--v": "7" },
+      "best_for": ["Fashion editorials", "Brand campaigns", "Portfolio work"],
+      "tips": "Medium format camera reference adds realistic depth-of-field."
+    },
+    {
+      "id": 7,
+      "category": "photography",
+      "title": "Cinematic Character Close-Up",
+      "prompt": "Cinematic portrait of an elderly fisherman with weathered hands and deep wrinkles, natural window light from left, warm morning atmosphere, background of a coastal harbor, documentary photography style",
+      "parameters": { "--ar": "4:5", "--s": "300", "--v": "7" },
+      "best_for": ["Documentary work", "Character studies", "Authentic storytelling"],
+      "tips": "Specifying light direction creates natural-looking portraits."
+    },
+    {
+      "id": 8,
+      "category": "photography",
+      "title": "Hyper-Realistic Cinematic Portrait",
+      "prompt": "A hyper-realistic cinematic portrait of a handsome man with a rugged jawline and short, messy dark hair, wearing dark round sunglasses and a textured leather jacket, dramatic side lighting, shallow depth of field",
+      "parameters": { "--ar": "4:5", "--s": "250", "--v": "7" },
+      "best_for": ["Character design", "Film pre-visualization"],
+      "tips": "Hyper-realistic + specific features = consistent character generation."
+    },
+    {
+      "id": 9,
+      "category": "photography",
+      "title": "Vintage Street Photography",
+      "prompt": "Man walking his dog on a street, you can see his full body, like an old vintage photograph, film fuji color",
+      "parameters": { "--ar": "16:9", "--style": "raw", "--v": "7" },
+      "best_for": ["Retro aesthetics", "Mood boards"],
+      "tips": "Film fuji color reference creates warm analog tones."
+    },
+    {
+      "id": 10,
+      "category": "architecture",
+      "title": "Sustainable Forest Retreat",
+      "prompt": "A serene wellness retreat nestled in a redwood forest, architectural photography, built from cross-laminated timber and rammed earth walls, large panoramic windows framing the trees, dappled sunlight filtering through the canopy, geothermal heating, green roof, hyper-realistic, 8k",
+      "parameters": { "--ar": "16:9", "--v": "7" },
+      "best_for": ["Eco-conscious residential", "Spa design", "Biophilic design"],
+      "tips": "Material specificity (CLT, rammed earth) guides architectural accuracy."
+    },
+    {
+      "id": 11,
+      "category": "architecture",
+      "title": "Parametric Facade",
+      "prompt": "A stunning parametric facade on a corporate headquarters, algorithmic architecture, a complex woven structure of glass and white composite panels, reflecting a dynamic sky, highly detailed intricate patterns, futuristic, wide-angle lens, photorealistic render",
+      "parameters": { "--ar": "16:9", "--v": "7" },
+      "best_for": ["Commercial projects", "Cultural centers", "Statement buildings"],
+      "tips": "Parametric + algorithmic keywords create organic geometric patterns."
+    },
+    {
+      "id": 12,
+      "category": "architecture",
+      "title": "Tadao Ando Style Gallery",
+      "prompt": "A small art gallery, architectural photography, in the style of Tadao Ando, masterful use of raw concrete and natural light, serene spatial composition, profound silence, minimalist, dramatic shadow play",
+      "parameters": { "--ar": "4:3", "--v": "7" },
+      "best_for": ["Museums", "Galleries", "Minimalist residential"],
+      "tips": "Named architect reference strongly guides the architectural style."
+    },
+    {
+      "id": 13,
+      "category": "product-commercial",
+      "title": "Luxury Chronograph Watch",
+      "prompt": "Orbital product photography of a luxury chronograph watch on dark marble, single spotlight from above creating premium reflections, studio lighting, photorealistic",
+      "parameters": { "--ar": "1:1", "--s": "100", "--c": "0", "--v": "7" },
+      "best_for": ["Luxury product launches", "E-commerce"],
+      "tips": "Zero chaos ensures perfect consistency. Low stylize for accuracy."
+    },
+    {
+      "id": 14,
+      "category": "product-commercial",
+      "title": "Perfume Bottle Elegance",
+      "prompt": "Elegant perfume bottle on a mirrored surface, scattered rose petals, soft side lighting creating depth and drama, luxury cosmetics photography, pastel pink and gold tones",
+      "parameters": { "--ar": "4:5", "--s": "300", "--v": "7" },
+      "best_for": ["Luxury cosmetics", "Lifestyle marketing"],
+      "tips": "Mirrored surface doubles the visual impact."
+    },
+    {
+      "id": 15,
+      "category": "product-commercial",
+      "title": "Skincare Ad with Text",
+      "prompt": "A minimalist Instagram ad for a skincare brand, pastel color palette, with a bottle of serum and a short tagline \"Glow Daily\"",
+      "parameters": { "--ar": "4:5", "--v": "7" },
+      "best_for": ["Social media marketing", "Brand mockups"],
+      "tips": "V7 text rendering is improved but keep text to 2-4 words max."
+    },
+    {
+      "id": 16,
+      "category": "concept-art",
+      "title": "Futuristic Transport Hub",
+      "prompt": "Futuristic conceptual architecture, a transportation hub with aerodynamic carbon fiber arches and ethereal light tunnels, speculative design, bio-inspired structures, neon glow, foggy atmosphere, epic scale, concept art, Unreal Engine 5 render",
+      "parameters": { "--ar": "21:9", "--v": "7" },
+      "best_for": ["Competitions", "Sci-fi concept art"],
+      "tips": "21:9 ultrawide ratio enhances the epic architectural scale."
+    },
+    {
+      "id": 17,
+      "category": "concept-art",
+      "title": "Dark Fantasy Poster",
+      "prompt": "Create a dark fantasy poster with a young red-haired woman surrounded by mystical elements in a gloomy setting, gothic aesthetic, dramatic lighting",
+      "parameters": { "--ar": "16:9", "--s": "250", "--v": "7" },
+      "best_for": ["Book covers", "Game art", "Dark fantasy illustration"],
+      "tips": "Gothic aesthetic + dramatic lighting creates the dark mood."
+    },
+    {
+      "id": 18,
+      "category": "concept-art",
+      "title": "1970s Dark Fantasy Frazetta Style",
+      "prompt": "1970s dark fantasy movie poster style, barbarian warrior on a throne, Frank Frazetta inspired, oil painting texture, warm amber tones, heavy shadows",
+      "parameters": { "--ar": "2:3", "--s": "400", "--v": "7" },
+      "best_for": ["Retro fantasy", "Vintage illustration"],
+      "tips": "Higher stylize (400) enhances the painterly oil painting quality."
+    },
+    {
+      "id": 19,
+      "category": "anime-illustration",
+      "title": "Ghibli Fishing Scene",
+      "prompt": "Close-up of a boy fishing in the river and catching a fish, captured with the finesse of Ghibli's storytelling, lush green background, soft lighting, detailed background",
+      "parameters": { "--ar": "16:9", "--v": "7" },
+      "best_for": ["Anime illustration", "Peaceful nature scenes"],
+      "tips": "Ghibli reference captures the warm, hand-painted anime aesthetic."
+    },
+    {
+      "id": 20,
+      "category": "anime-illustration",
+      "title": "Anime Forest Girl with SREF",
+      "prompt": "A girl standing in a mystical forest, anime illustration style, vibrant colors, detailed eyes, cel shading, dynamic pose, studio ghibli inspired, soft lighting, detailed background",
+      "parameters": { "--ar": "16:9", "--sref": "7435", "--v": "7" },
+      "best_for": ["Anime art", "Manga illustration", "Character design"],
+      "tips": "SREF 7435 adds a vibrant anime/manga color style."
+    },
+    {
+      "id": 21,
+      "category": "3d-isometric",
+      "title": "Futuristic Vehicle 3D",
+      "prompt": "3D-Illustration of a futuristic vehicle with smooth surfaces and dynamic lines, illuminated under a starry sky, octane render, volumetric lighting",
+      "parameters": { "--ar": "16:9", "--v": "7" },
+      "best_for": ["Product concepts", "Sci-fi vehicle design"],
+      "tips": "Octane render reference creates realistic 3D material quality."
+    },
+    {
+      "id": 22,
+      "category": "3d-isometric",
+      "title": "Isometric City Map",
+      "prompt": "Create an isometric representation of a complex, futuristic city map in which all buildings and streets are in perfect harmony with each other and visible from a bird's eye view",
+      "parameters": { "--ar": "16:9", "--v": "7" },
+      "best_for": ["Game design", "Architectural planning"],
+      "tips": "Isometric perspective creates a readable, infographic-style layout."
+    },
+    {
+      "id": 23,
+      "category": "nature-landscape",
+      "title": "Misty Mountain Village",
+      "prompt": "Crane shot descending over a misty mountain village at sunrise, traditional stone buildings with slate roofs, narrow winding cobblestone streets, warm golden light breaking through fog layers, cinematic",
+      "parameters": { "--ar": "16:9", "--s": "300", "--v": "7" },
+      "best_for": ["Travel documentaries", "Establishing shots"],
+      "tips": "Fog + golden hour creates atmospheric depth."
+    },
+    {
+      "id": 24,
+      "category": "nature-landscape",
+      "title": "Aurora Borealis",
+      "prompt": "Aurora borealis time-lapse over a warm lit log cabin in the snowy wilderness, vivid green and purple lights dancing in the sky, reflection on a frozen lake, long exposure photography",
+      "parameters": { "--ar": "16:9", "--s": "500", "--v": "7" },
+      "best_for": ["Nature documentaries", "Travel content"],
+      "tips": "Higher stylize (500) enhances the magical quality of auroras."
+    },
+    {
+      "id": 25,
+      "category": "abstract-artistic",
+      "title": "Metallic Paint Collision",
+      "prompt": "Two streams of metallic paint colliding in mid-air, gold and teal, frozen in time, high-speed photography style, black background, abstract art",
+      "parameters": { "--ar": "1:1", "--s": "600", "--c": "30", "--v": "7" },
+      "best_for": ["Abstract backgrounds", "Title sequences"],
+      "tips": "High chaos (30) creates unique variations each generation."
+    },
+    {
+      "id": 26,
+      "category": "abstract-artistic",
+      "title": "Geometric Light Refraction",
+      "prompt": "Geometric light refraction through crystal prisms, creating rainbow spectrum patterns, top-down view, multiple light sources, album cover art",
+      "parameters": { "--ar": "1:1", "--s": "700", "--v": "7" },
+      "best_for": ["Album covers", "Modern art prints"],
+      "tips": "Album cover art keyword nudges toward centered, balanced framing."
+    },
+    {
+      "id": 27,
+      "category": "text-typography",
+      "title": "Jazz Night Event Poster",
+      "prompt": "A digital poster for a jazz night event with the words \"Smooth Sounds Tonight\" in glowing letters, moody lighting, neon aesthetic, dark background",
+      "parameters": { "--ar": "2:3", "--v": "7" },
+      "best_for": ["Event promotion", "Poster design"],
+      "tips": "Keep text to 2-4 words. Neon glow masks text rendering imperfections."
+    },
+    {
+      "id": 28,
+      "category": "text-typography",
+      "title": "Neon Sign Typography",
+      "prompt": "Neon sign reading \"DREAM BIG\" mounted on a dark brick wall, warm glow reflecting on wet pavement below, atmospheric, urban photography style",
+      "parameters": { "--ar": "16:9", "--s": "400", "--v": "7" },
+      "best_for": ["Motivational content", "Social media posts"],
+      "tips": "Neon text renders more reliably than printed text."
+    }
+  ]
+}

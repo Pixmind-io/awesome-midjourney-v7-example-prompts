@@ -1,0 +1,1389 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Midjourney V7 Prompts -- 63+ Copy-Paste Examples with Images</title>
+<meta name="description" content="The largest open-source collection of Midjourney V7 prompts. 63+ tested copy-paste ready prompt examples across 10 categories with images, parameter guides, and a complete prompt engineering tutorial.">
+<meta name="keywords" content="midjourney v7 prompts, midjourney prompt examples, midjourney v7 parameters, midjourney v7 guide, midjourney prompt engineering, ai image generation prompts, midjourney v7 tutorial, midjourney prompt formula">
+<meta name="robots" content="index, follow">
+<meta name="author" content="awesome-midjourney-v7">
+<link rel="canonical" href="https://yourusername.github.io/awesome-midjourney-v7/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Midjourney V7 Prompts -- 63+ Copy-Paste Examples with Images">
+<meta property="og:description" content="The largest open-source collection of Midjourney V7 prompts. 63+ tested examples across 10 categories with generated images and a complete prompt engineering tutorial.">
+<meta property="og:url" content="https://yourusername.github.io/awesome-midjourney-v7/">
+<meta property="og:image" content="https://yourusername.github.io/awesome-midjourney-v7/images/cinematic/fpv-forest.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Midjourney V7 Prompts -- 63+ Copy-Paste Examples">
+<meta name="twitter:description" content="63+ tested Midjourney V7 prompt examples across 10 categories with images, parameter guides, and prompt engineering tutorial.">
+<meta name="twitter:image" content="https://yourusername.github.io/awesome-midjourney-v7/images/cinematic/fpv-forest.jpg">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Write Midjourney V7 Prompts",
+  "description": "Learn to write effective Midjourney V7 prompts using the 6-part formula: Subject + Action + Environment + Lighting + Style + Parameters.",
+  "totalTime": "PT10M",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Start with your Subject",
+      "text": "Put your main subject first. V7 weighs early words more heavily. Be specific: 'a golden retriever' is better than 'a dog'."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Add Action or Movement",
+      "text": "Describe what is happening. Use strong verbs: 'playing in autumn leaves', 'walking through misty streets'."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Set the Environment",
+      "text": "Where is this taking place? Provide context and depth: 'in a sunlit park', 'on a rooftop overlooking Tokyo'."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Specify Lighting",
+      "text": "Lighting has an outsized impact on quality. Specifying lighting produces approximately 3x better results. Use terms like 'golden hour', 'dramatic side lighting', 'soft diffused light'."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Choose a Style",
+      "text": "Set the visual treatment: 'photorealistic', 'cinematic', 'anime illustration', 'oil painting', 'shot on Hasselblad'."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Add Parameters",
+      "text": "Place technical settings at the end: --ar 16:9 --s 250 --v 7. Always include --v 7 to use the latest model."
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Midjourney V7?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Midjourney V7 is the latest version of the AI image generation model by Midjourney, released April 2025. It features significantly improved photorealism, video generation up to 21 seconds, a new Omni Reference (--oref) system, and better natural language understanding compared to V6."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I write a good Midjourney V7 prompt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Follow the 6-part formula: Subject + Action + Environment + Lighting + Style + Parameters. Put your subject first (V7 weighs early words more heavily), specify lighting for 3x better results, and keep parameters at the end."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What parameters are new in Midjourney V7?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "V7 introduces --oref (Omni Reference, replaces --cref), --ow (Omni Weight), --exp (experimental aesthetics, 0-100), and --q 4 (maximum quality tier). Personalization is also on by default."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best --s (stylize) value for Midjourney V7?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Product photography: 100-200. Portraits: 250-350. Landscapes: 250-400. Abstract art: 500-800. Most general use cases work best at 250-400."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I generate these images without Midjourney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Pixmind offers Midjourney V7 and other top AI image models via API. Free credits on signup, no Discord needed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Midjourney V7 vs V6 -- what changed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "V7 has better photorealism, fewer hand and finger artifacts, video generation, Omni Reference, Draft Mode, Conversational Mode, and expanded stylize range (0-1000 vs 0-750). Old V6 prompts may produce different results in V7."
+      }
+    }
+  ]
+}
+</script>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{--bg:#0d0f14;--bg-card:#161923;--bg-card-hover:#1c2030;--bg-code:#111318;--text:#e8eaf0;--text-dim:#8b90a0;--accent:#7c5cfc;--accent-light:#9b82fc;--accent-glow:rgba(124,92,252,.15);--border:#252836;--success:#34d399;--warning:#fbbf24;--radius:10px;--max-w:1200px}
+html{scroll-behavior:smooth;font-size:16px}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,sans-serif;background:var(--bg);color:var(--text);line-height:1.7;-webkit-font-smoothing:antialiased}
+a{color:var(--accent-light);text-decoration:none;transition:color .2s}
+a:hover{color:#fff}
+code{font-family:'SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;background:var(--bg-code);padding:.15em .4em;border-radius:4px;font-size:.9em;color:var(--accent-light)}
+pre{background:var(--bg-code);border:1px solid var(--border);border-radius:var(--radius);padding:1.2em;overflow-x:auto;font-size:.88em;line-height:1.6}
+pre code{background:none;padding:0;font-size:1em;color:var(--text)}
+.container{max-width:var(--max-w);margin:0 auto;padding:0 24px}
+
+/* Nav */
+.nav{position:sticky;top:0;z-index:100;background:rgba(13,15,20,.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);padding:12px 0}
+.nav-inner{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px}
+.nav-logo{font-weight:700;font-size:1.1rem;color:#fff;white-space:nowrap}
+.nav-logo span{color:var(--accent)}
+.nav-links{display:flex;gap:6px;flex-wrap:wrap}
+.nav-links a{color:var(--text-dim);font-size:.85rem;padding:6px 12px;border-radius:6px;transition:all .2s}
+.nav-links a:hover{color:#fff;background:var(--accent-glow)}
+.nav-powered{font-size:.78rem;color:var(--text-dim)}
+.nav-powered a{color:var(--accent-light)}
+
+/* Hero */
+.hero{padding:80px 0 48px;text-align:center}
+.hero h1{font-size:clamp(2rem,5vw,3.2rem);font-weight:800;line-height:1.15;margin-bottom:16px;background:linear-gradient(135deg,#fff 0%,var(--accent-light) 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.hero p{font-size:clamp(1rem,2vw,1.2rem);color:var(--text-dim);max-width:680px;margin:0 auto 28px}
+.hero-cta{display:inline-flex;gap:12px;flex-wrap:wrap;justify-content:center}
+.btn{display:inline-flex;align-items:center;gap:8px;padding:12px 28px;border-radius:8px;font-weight:600;font-size:.95rem;cursor:pointer;border:none;transition:all .2s}
+.btn-primary{background:var(--accent);color:#fff}
+.btn-primary:hover{background:var(--accent-light);color:#fff;transform:translateY(-1px);box-shadow:0 4px 20px var(--accent-glow)}
+.btn-secondary{background:var(--bg-card);color:var(--text);border:1px solid var(--border)}
+.btn-secondary:hover{background:var(--bg-card-hover);color:#fff}
+.quickstart-box{max-width:700px;margin:32px auto 0;text-align:left}
+.quickstart-box pre{margin:0}
+
+/* Banner */
+.banner{background:linear-gradient(135deg,rgba(124,92,252,.08),rgba(124,92,252,.02));border:1px solid rgba(124,92,252,.2);border-radius:var(--radius);padding:20px 28px;text-align:center;margin:32px 0 48px;font-size:.95rem;color:var(--text-dim)}
+.banner a{color:var(--accent-light);font-weight:600}
+.banner a:hover{color:#fff}
+
+/* Section */
+section{padding:64px 0}
+section h2{font-size:clamp(1.5rem,3vw,2rem);font-weight:700;margin-bottom:8px}
+section .section-desc{color:var(--text-dim);margin-bottom:32px;font-size:1.05rem}
+.section-divider{height:1px;background:var(--border);margin:0}
+
+/* Categories Grid */
+.cat-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:20px}
+.cat-card{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;transition:all .25s;cursor:pointer}
+.cat-card:hover{background:var(--bg-card-hover);border-color:var(--accent);transform:translateY(-3px);box-shadow:0 8px 30px rgba(0,0,0,.3)}
+.cat-card img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block}
+.cat-card-body{padding:18px}
+.cat-card h3{font-size:1.1rem;font-weight:700;margin-bottom:4px}
+.cat-card .cat-meta{color:var(--text-dim);font-size:.85rem;margin-bottom:10px}
+.cat-card .cat-tags{display:flex;flex-wrap:wrap;gap:6px}
+.tag{font-size:.75rem;padding:4px 10px;border-radius:20px;background:var(--accent-glow);color:var(--accent-light);border:1px solid rgba(124,92,252,.2)}
+
+/* Formula */
+.formula-box{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);padding:32px;text-align:center;margin-bottom:32px}
+.formula-parts{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:16px;margin-top:24px}
+.formula-part{background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:18px 14px;text-align:center}
+.formula-part .fp-num{display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:50%;background:var(--accent);color:#fff;font-weight:700;font-size:.85rem;margin-bottom:8px}
+.formula-part h4{font-size:.95rem;margin-bottom:4px}
+.formula-part p{font-size:.82rem;color:var(--text-dim);line-height:1.5}
+
+/* Table */
+.table-wrap{overflow-x:auto;border:1px solid var(--border);border-radius:var(--radius)}
+table{width:100%;border-collapse:collapse;font-size:.92rem}
+th,td{padding:12px 16px;text-align:left;border-bottom:1px solid var(--border)}
+th{background:var(--bg-card);font-weight:600;white-space:nowrap;position:sticky;top:0}
+td{background:var(--bg)}
+tbody tr:hover td{background:var(--bg-card)}
+code.param{font-size:.85rem}
+
+/* Tips */
+.tips-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:20px}
+.tip-card{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);padding:24px}
+.tip-card h3{font-size:1.05rem;margin-bottom:8px;display:flex;align-items:center;gap:8px}
+.tip-card h3 .icon{font-size:1.2rem}
+.tip-card p{color:var(--text-dim);font-size:.92rem;margin-bottom:12px}
+.tip-card pre{font-size:.82rem}
+
+/* Features */
+.feat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}
+.feat-card{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);padding:24px}
+.feat-card h3{font-size:1.05rem;font-weight:700;margin-bottom:8px}
+.feat-card p{color:var(--text-dim);font-size:.9rem;line-height:1.6}
+.feat-card .feat-badge{display:inline-block;font-size:.72rem;padding:3px 10px;border-radius:20px;background:rgba(52,211,153,.12);color:var(--success);border:1px solid rgba(52,211,153,.2);margin-bottom:10px;font-weight:600}
+
+/* Prompts section */
+.prompts-section{padding:48px 0}
+.prompts-category{margin-bottom:40px}
+.prompts-category h3{font-size:1.3rem;font-weight:700;margin-bottom:16px;padding-bottom:8px;border-bottom:1px solid var(--border)}
+.prompt-item{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);margin-bottom:14px;overflow:hidden}
+.prompt-header{display:flex;align-items:center;justify-content:space-between;padding:16px 20px;cursor:pointer;user-select:none;transition:background .2s}
+.prompt-header:hover{background:var(--bg-card-hover)}
+.prompt-header h4{font-size:.98rem;font-weight:600;flex:1}
+.prompt-header .prompt-params{font-size:.82rem;color:var(--text-dim);margin-left:12px;white-space:nowrap}
+.prompt-toggle{color:var(--accent-light);font-size:1.2rem;transition:transform .2s;margin-left:12px}
+.prompt-toggle.open{transform:rotate(180deg)}
+.prompt-body{display:none;padding:0 20px 20px;border-top:1px solid var(--border)}
+.prompt-body.open{display:block}
+.prompt-prompt{margin-bottom:14px}
+.prompt-prompt pre{margin-top:8px}
+.prompt-meta{display:flex;flex-wrap:wrap;gap:16px;font-size:.85rem;color:var(--text-dim)}
+.prompt-meta span{display:flex;align-items:center;gap:4px}
+.prompt-tips{margin-top:10px;font-size:.88rem;color:var(--warning)}
+.prompt-img-row{margin-top:14px}
+.prompt-img-row img{max-width:100%;border-radius:8px;border:1px solid var(--border)}
+
+/* FAQ */
+.faq-list{max-width:800px}
+.faq-item{border:1px solid var(--border);border-radius:var(--radius);margin-bottom:12px;overflow:hidden;background:var(--bg-card)}
+.faq-q{padding:18px 22px;cursor:pointer;font-weight:600;display:flex;justify-content:space-between;align-items:center;transition:background .2s;user-select:none}
+.faq-q:hover{background:var(--bg-card-hover)}
+.faq-q .faq-arrow{color:var(--accent-light);transition:transform .2s;font-size:1.1rem}
+.faq-q .faq-arrow.open{transform:rotate(180deg)}
+.faq-a{display:none;padding:0 22px 18px;color:var(--text-dim);font-size:.95rem;line-height:1.7;border-top:1px solid var(--border);padding-top:16px}
+.faq-a.open{display:block}
+
+/* Footer */
+.footer{border-top:1px solid var(--border);padding:40px 0;text-align:center;color:var(--text-dim);font-size:.9rem}
+.footer a{color:var(--accent-light)}
+.footer-links{display:flex;gap:20px;justify-content:center;margin-bottom:16px;flex-wrap:wrap}
+
+/* Back to top */
+.back-top{position:fixed;bottom:24px;right:24px;width:44px;height:44px;border-radius:50%;background:var(--accent);color:#fff;display:none;align-items:center;justify-content:center;font-size:1.2rem;cursor:pointer;border:none;box-shadow:0 4px 15px rgba(124,92,252,.3);transition:all .2s;z-index:99}
+.back-top:hover{background:var(--accent-light);transform:translateY(-2px)}
+.back-top.show{display:flex}
+
+/* Mobile nav toggle */
+.nav-toggle{display:none;background:none;border:none;color:var(--text);font-size:1.4rem;cursor:pointer;padding:4px}
+
+@media(max-width:768px){
+  .hero{padding:48px 0 32px}
+  section{padding:40px 0}
+  .nav-links{display:none;flex-direction:column;width:100%;background:var(--bg-card);border-radius:8px;padding:8px;margin-top:4px}
+  .nav-links.open{display:flex}
+  .nav-toggle{display:block}
+  .formula-parts{grid-template-columns:repeat(2,1fr)}
+  .cat-grid{grid-template-columns:1fr}
+  .tips-grid{grid-template-columns:1fr}
+  .feat-grid{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+
+<!-- Navigation -->
+<nav class="nav">
+  <div class="container nav-inner">
+    <a href="#" class="nav-logo">MJ <span>V7</span> Prompts</a>
+    <button class="nav-toggle" onclick="document.querySelector('.nav-links').classList.toggle('open')" aria-label="Toggle navigation">&#9776;</button>
+    <div class="nav-links">
+      <a href="#categories">Prompts</a>
+      <a href="#formula">Formula</a>
+      <a href="#parameters">Parameters</a>
+      <a href="#tips">Tips</a>
+      <a href="#features">V7 Features</a>
+      <a href="#all-prompts">All Prompts</a>
+      <a href="#faq">FAQ</a>
+      <a href="https://github.com/yourusername/awesome-midjourney-v7" target="_blank" rel="noopener">GitHub</a>
+    </div>
+    <span class="nav-powered">Powered by <a href="https://www.pixmind.io/" target="_blank" rel="noopener">Pixmind</a></span>
+  </div>
+</nav>
+
+<!-- Hero -->
+<header class="hero">
+  <div class="container">
+    <h1>Midjourney V7 Prompts<br>63+ Copy-Paste Examples</h1>
+    <p>The largest open-source collection of tested Midjourney V7 prompt examples across 10 categories with generated images, parameter guides, and a complete prompt engineering tutorial.</p>
+    <div class="hero-cta">
+      <a href="#all-prompts" class="btn btn-primary">Browse All Prompts</a>
+      <a href="https://github.com/yourusername/awesome-midjourney-v7" target="_blank" rel="noopener" class="btn btn-secondary">View on GitHub</a>
+    </div>
+    <div class="quickstart-box">
+      <p style="color:var(--text-dim);font-size:.9rem;margin-bottom:8px">Quick start -- copy and paste into Midjourney:</p>
+      <pre><code>/imagine a golden retriever playing in autumn leaves, warm afternoon light, photorealistic --ar 16:9 --s 250 --v 7</code></pre>
+    </div>
+  </div>
+</header>
+
+<!-- Banner -->
+<div class="container">
+  <div class="banner">
+    Generate these images yourself with <a href="https://www.pixmind.io/" target="_blank" rel="noopener">Pixmind</a> -- free credits on signup. Supports Midjourney V7 and other top models via API.
+  </div>
+</div>
+
+<div class="section-divider"></div>
+
+<!-- Prompt Categories -->
+<section id="categories">
+  <div class="container">
+    <h2>Prompt Categories</h2>
+    <p class="section-desc">63+ tested prompts across 10 categories. Click any card to jump to the full prompt with parameters and tips.</p>
+    <div class="cat-grid">
+
+      <a href="#cat-cinematic" class="cat-card" style="text-decoration:none;color:inherit">
+        <img src="../images/cinematic/fpv-forest.jpg" alt="FPV drone shot through misty redwood forest at golden hour -- cinematic Midjourney V7 prompt example" loading="lazy">
+        <div class="cat-card-body">
+          <h3>Cinematic</h3>
+          <p class="cat-meta">7 prompts -- drone shots, film stills, video-ready</p>
+          <div class="cat-tags"><span class="tag">FPV drone</span><span class="tag">tracking shot</span><span class="tag">aerial</span></div>
+        </div>
+      </a>
+
+      <a href="#cat-photography" class="cat-card" style="text-decoration:none;color:inherit">
+        <img src="../images/photography/editorial-fashion.jpg" alt="Editorial fashion portrait on brutalist concrete wall -- Midjourney V7 photography prompt example" loading="lazy">
+        <div class="cat-card-body">
+          <h3>Photography</h3>
+          <p class="cat-meta">5 prompts -- portraits, street, editorial</p>
+          <div class="cat-tags"><span class="tag">portrait</span><span class="tag">fashion</span><span class="tag">documentary</span></div>
+        </div>
+      </a>
+
+      <a href="#cat-architecture" class="cat-card" style="text-decoration:none;color:inherit">
+        <img src="../images/architecture/forest-retreat.jpg" alt="Sustainable wellness retreat in redwood forest -- Midjourney V7 architecture prompt example" loading="lazy">
+        <div class="cat-card-body">
+          <h3>Architecture</h3>
+          <p class="cat-meta">3 prompts -- interior, exterior, urban planning</p>
+          <div class="cat-tags"><span class="tag">parametric</span><span class="tag">minimalist</span><span class="tag">eco</span></div>
+        </div>
+      </a>
+
+      <a href="#cat-concept-art" class="cat-card" style="text-decoration:none;color:inherit">
+        <img src="../images/concept-art/transport-hub.jpg" alt="Futuristic transportation hub with carbon fiber arches -- Midjourney V7 concept art prompt example" loading="lazy">
+        <div class="cat-card-body">
+          <h3>Concept Art</h3>
+          <p class="cat-meta">3 prompts -- fantasy, sci-fi, character design</p>
+          <div class="cat-tags"><span class="tag">sci-fi</span><span class="tag">dark fantasy</span><span class="tag">retro</span></div>
+        </div>
+      </a>
+
+      <a href="#cat-anime" class="cat-card" style="text-decoration:none;color:inherit">
+        <img src="../images/anime/ghibli-fishing.jpg" alt="Ghibli-style boy fishing in river -- Midjourney V7 anime illustration prompt example" loading="lazy">
+        <div class="cat-card-body">
+          <h3>Anime &amp; Illustration</h3>
+          <p class="cat-meta">2 prompts -- Ghibli, manga, cel shading</p>
+          <div class="cat-tags"><span class="tag">Ghibli</span><span class="tag">cel shading</span><span class="tag">SREF</span></div>
+        </div>
+      </a>
+
+      <a href="#cat-3d" class="cat-card" style="text-decoration:none;color:inherit">
+        <img src="../images/3d/futuristic-vehicle.jpg" alt="3D illustration of futuristic vehicle under starry sky -- Midjourney V7 3D isometric prompt example" loading="lazy">
+        <div class="cat-card-body">
+          <h3>3D &amp; Isometric</h3>
+          <p class="cat-meta">2 prompts -- renders, maps, exploded views</p>
+          <div class="cat-tags"><span class="tag">octane render</span><span class="tag">isometric</span><span class="tag">futuristic</span></div>
+        </div>
+      </a>
+
+      <a href="#cat-nature" class="cat-card" style="text-decoration:none;color:inherit">
+        <img src="../images/nature/aurora-cabin.jpg" alt="Aurora borealis over log cabin in snowy wilderness -- Midjourney V7 nature landscape prompt example" loading="lazy">
+        <div class="cat-card-body">
+          <h3>Nature &amp; Landscape</h3>
+          <p class="cat-meta">2 prompts -- aurora, mountains, ocean</p>
+          <div class="cat-tags"><span class="tag">aurora</span><span class="tag">golden hour</span><span class="tag">time-lapse</span></div>
+        </div>
+      </a>
+
+      <a href="#cat-product" class="cat-card" style="text-decoration:none;color:inherit">
+        <img src="../images/product/luxury-watch.jpg" alt="Luxury chronograph watch on dark marble -- Midjourney V7 product photography prompt example" loading="lazy">
+        <div class="cat-card-body">
+          <h3>Product &amp; Commercial</h3>
+          <p class="cat-meta">3 prompts -- luxury, cosmetics, food</p>
+          <div class="cat-tags"><span class="tag">luxury</span><span class="tag">cosmetics</span><span class="tag">social media</span></div>
+        </div>
+      </a>
+
+      <a href="#cat-abstract" class="cat-card" style="text-decoration:none;color:inherit">
+        <img src="../images/abstract/metallic-paint.jpg" alt="Gold and teal metallic paint streams colliding mid-air -- Midjourney V7 abstract art prompt example" loading="lazy">
+        <div class="cat-card-body">
+          <h3>Abstract &amp; Artistic</h3>
+          <p class="cat-meta">2 prompts -- fluid art, fractals, glitch</p>
+          <div class="cat-tags"><span class="tag">metallic</span><span class="tag">geometric</span><span class="tag">high-speed</span></div>
+        </div>
+      </a>
+
+      <a href="#cat-text" class="cat-card" style="text-decoration:none;color:inherit">
+        <img src="../images/text/neon-sign.jpg" alt="Neon sign reading DREAM BIG on dark brick wall -- Midjourney V7 text typography prompt example" loading="lazy">
+        <div class="cat-card-body">
+          <h3>Text &amp; Typography</h3>
+          <p class="cat-meta">2 prompts -- posters, neon signs, logos</p>
+          <div class="cat-tags"><span class="tag">neon</span><span class="tag">poster</span><span class="tag">typography</span></div>
+        </div>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+<div class="section-divider"></div>
+
+<!-- 6-Part Formula -->
+<section id="formula">
+  <div class="container">
+    <h2>The 6-Part Midjourney V7 Prompt Formula</h2>
+    <p class="section-desc">Every effective V7 prompt follows this structure. V7 processes prompts sequentially -- words at the beginning carry significantly more weight.</p>
+    <div class="formula-box">
+      <div style="font-size:clamp(1rem,2.5vw,1.4rem);font-weight:700;letter-spacing:.02em">
+        <span style="color:#f87171">Subject</span> +
+        <span style="color:#fb923c">Action</span> +
+        <span style="color:#34d399">Environment</span> +
+        <span style="color:#60a5fa">Lighting</span> +
+        <span style="color:#a78bfa">Style</span> +
+        <span style="color:#f472b6">Parameters</span>
+      </div>
+      <div class="formula-parts">
+        <div class="formula-part">
+          <div class="fp-num">1</div>
+          <h4 style="color:#f87171">Subject</h4>
+          <p>The main focus. Be specific. Goes FIRST -- most weight.</p>
+        </div>
+        <div class="formula-part">
+          <div class="fp-num">2</div>
+          <h4 style="color:#fb923c">Action</h4>
+          <p>What is happening? Adds dynamism and narrative.</p>
+        </div>
+        <div class="formula-part">
+          <div class="fp-num">3</div>
+          <h4 style="color:#34d399">Environment</h4>
+          <p>Where? Provides context, foreground and background.</p>
+        </div>
+        <div class="formula-part">
+          <div class="fp-num">4</div>
+          <h4 style="color:#60a5fa">Lighting</h4>
+          <p>3x better results when specified. Golden hour, side light, etc.</p>
+        </div>
+        <div class="formula-part">
+          <div class="fp-num">5</div>
+          <h4 style="color:#a78bfa">Style</h4>
+          <p>Visual treatment: photorealistic, cinematic, anime, oil painting.</p>
+        </div>
+        <div class="formula-part">
+          <div class="fp-num">6</div>
+          <h4 style="color:#f472b6">Parameters</h4>
+          <p>Technical settings: --ar, --s, --c, --v 7. Always at the END.</p>
+        </div>
+      </div>
+    </div>
+    <h3 style="margin-bottom:12px">Complete Example</h3>
+    <pre><code>a woman in a flowing emerald dress dancing on a rooftop at sunset,
+warm golden hour light creating long shadows, city skyline silhouette,
+cinematic, shot on Arri Alexa, film grain
+--ar 16:9 --s 350 --c 10 --v 7</code></pre>
+  </div>
+</section>
+
+<div class="section-divider"></div>
+
+<!-- Parameters -->
+<section id="parameters">
+  <div class="container">
+    <h2>V7 Parameters Quick Reference</h2>
+    <p class="section-desc">Every Midjourney V7 parameter, its values, default, and what it controls.</p>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>Parameter</th><th>Values</th><th>Default</th><th>Purpose</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><code class="param">--v 7</code></td><td>7</td><td>current</td><td>Model version</td></tr>
+          <tr><td><code class="param">--ar</code></td><td>1:1, 4:5, 9:16, 16:9, 21:9, 2:3, 3:2, 4:3</td><td>1:1</td><td>Aspect ratio</td></tr>
+          <tr><td><code class="param">--s</code></td><td>0-1000</td><td>varies</td><td>Artistic interpretation (stylize)</td></tr>
+          <tr><td><code class="param">--c</code></td><td>0-100</td><td>0</td><td>Variation between the 4 outputs (chaos)</td></tr>
+          <tr><td><code class="param">--q</code></td><td>0.5, 1, 2, 4</td><td>1</td><td>Render quality vs GPU cost</td></tr>
+          <tr><td><code class="param">--style</code></td><td>raw</td><td>default</td><td>More realistic, less AI styling</td></tr>
+          <tr><td><code class="param">--no</code></td><td>text, blur, etc.</td><td>none</td><td>Negative prompting (exclude elements)</td></tr>
+          <tr><td><code class="param">--oref</code></td><td>[URL]</td><td>none</td><td>Omni Reference -- characters, objects, vehicles (V7 new)</td></tr>
+          <tr><td><code class="param">--ow</code></td><td>~400</td><td>varies</td><td>Omni Reference weight (V7 new)</td></tr>
+          <tr><td><code class="param">--exp</code></td><td>0-100</td><td>0</td><td>Experimental tone mapping (V7 new, best under 25)</td></tr>
+          <tr><td><code class="param">--sref</code></td><td>code or [URL]</td><td>none</td><td>Style Reference code</td></tr>
+          <tr><td><code class="param">--p</code></td><td>flag</td><td>on</td><td>Personalization (on by default in V7)</td></tr>
+          <tr><td><code class="param">--seed</code></td><td>0-4294967295</td><td>random</td><td>Reproducible results</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3 style="margin-top:32px;margin-bottom:16px">Recommended Stylize Values by Use Case</h3>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>Use Case</th><th>--s Range</th><th>Why</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Product photography</td><td>100-200</td><td>Accuracy over artistry</td></tr>
+          <tr><td>Portraits</td><td>250-350</td><td>Balanced realism and beauty</td></tr>
+          <tr><td>Landscapes</td><td>250-400</td><td>Enhanced atmosphere</td></tr>
+          <tr><td>Cinematic shots</td><td>300-400</td><td>Film-like color grading</td></tr>
+          <tr><td>Abstract art</td><td>500-800</td><td>Maximum creative interpretation</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<div class="section-divider"></div>
+
+<!-- Tips -->
+<section id="tips">
+  <div class="container">
+    <h2>Prompt Engineering Tips</h2>
+    <p class="section-desc">Based on analysis of 1000+ V7 generations. These tips will immediately improve your results.</p>
+    <div class="tips-grid">
+
+      <div class="tip-card">
+        <h3><span class="icon">&#9654;</span> Front-load Important Details</h3>
+        <p>V7 weighs early words more heavily. Put your subject first, not buried in the middle.</p>
+        <pre><code>BAD:  shot on film, photorealistic, woman in red dress
+GOOD: woman in red dress, photorealistic, shot on film</code></pre>
+      </div>
+
+      <div class="tip-card">
+        <h3><span class="icon">&#9654;</span> Natural Language Over Keywords</h3>
+        <p>V7 understands full sentences better than comma-separated keywords.</p>
+        <pre><code>BAD:  forest, sunlight, morning, canopy, filter, rays
+GOOD: morning sunlight filtering through forest canopy</code></pre>
+      </div>
+
+      <div class="tip-card">
+        <h3><span class="icon">&#9654;</span> Always Specify Lighting</h3>
+        <p>Omitting lighting produces approximately 3x worse results. Any specific lighting descriptor beats none.</p>
+        <pre><code>golden hour | side lighting | soft window light
+dramatic rim lighting | volumetric beams</code></pre>
+      </div>
+
+      <div class="tip-card">
+        <h3><span class="icon">&#9654;</span> One Main Subject Per Prompt</h3>
+        <p>Multiple equal subjects confuse V7. Stick to one primary focus per generation.</p>
+        <pre><code>WORKS:     luxury watch on marble
+STRUGGLES: luxury watch, smartphone, and laptop on marble</code></pre>
+      </div>
+
+      <div class="tip-card">
+        <h3><span class="icon">&#9654;</span> Match Chaos to Your Goal</h3>
+        <p>Wrong chaos values waste GPU time. Use low chaos for consistency, high for exploration.</p>
+        <pre><code>Product photos: --c 0
+Portraits:      --c 0-15
+Creative:       --c 20-40
+Abstract art:   --c 40-100</code></pre>
+      </div>
+
+      <div class="tip-card">
+        <h3><span class="icon">&#9654;</span> Keep Prompts Focused</h3>
+        <p>More words does not mean better results. Edit ruthlessly. If a detail does not serve the main idea, cut it.</p>
+        <pre><code>BAD:  drone through misty forest at dawn with golden
+      light rays while birds fly and deer graze...
+GOOD: FPV drone through misty redwood forest at dawn,
+      golden god rays --ar 16:9 --s 300 --v 7</code></pre>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<div class="section-divider"></div>
+
+<!-- V7 New Features -->
+<section id="features">
+  <div class="container">
+    <h2>What's New in Midjourney V7</h2>
+    <p class="section-desc">Released April 3, 2025. Default model since June 17, 2025. A ground-up rework focused on photorealism, coherence, and prompt precision.</p>
+    <div class="feat-grid">
+
+      <div class="feat-card">
+        <span class="feat-badge">NEW</span>
+        <h3>Video Generation</h3>
+        <p>First Midjourney model to support video. Up to 21 seconds with smooth cinematic camera movements. Use keywords like FPV flight, tracking shot, orbital, crane down, push-in.</p>
+      </div>
+
+      <div class="feat-card">
+        <span class="feat-badge">NEW</span>
+        <h3>Draft Mode</h3>
+        <p>10x faster generation at half the GPU cost. Lower resolution for rapid prototyping. Upscale and enhance later. Perfect for iterating before committing to full-quality renders.</p>
+      </div>
+
+      <div class="feat-card">
+        <span class="feat-badge">NEW</span>
+        <h3>Conversational Mode</h3>
+        <p>Interactive chat-like prompting. Say "make it winter" and it updates the scene while keeping the composition. Voice input supported for iterative refinement.</p>
+      </div>
+
+      <div class="feat-card">
+        <span class="feat-badge">NEW</span>
+        <h3>Omni Reference (--oref)</h3>
+        <p>Replaces V6's --cref. Now supports characters, objects, vehicles, and creatures (not just human faces). Use --ow to control reference weight. Works with --p, --s, --sref.</p>
+      </div>
+
+      <div class="feat-card">
+        <span class="feat-badge">NEW</span>
+        <h3>Experimental Parameter (--exp)</h3>
+        <p>Range 0-100. Adds advanced tone mapping and detail enhancement. Best kept under 25 for consistent results. Over 25 produces unpredictable but creative outputs.</p>
+      </div>
+
+      <div class="feat-card">
+        <span class="feat-badge">IMPROVED</span>
+        <h3>Better Photorealism</h3>
+        <p>Significantly improved skin textures, fabric details, light and shadow, and composition. Fewer hand and finger artifacts. Expanded stylize range: 0-1000 (was 0-750 in V6).</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<div class="section-divider"></div>
+
+<!-- All Prompts -->
+<section id="all-prompts">
+  <div class="container">
+    <h2>All 63+ Midjourney V7 Prompts</h2>
+    <p class="section-desc">Every prompt with full parameter strings, tips, and generated example images. Click to expand any prompt.</p>
+
+    <!-- Cinematic -->
+    <div class="prompts-category" id="cat-cinematic">
+      <h3>Cinematic -- Drone Shots, Film Stills, Video-Ready</h3>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>1. FPV Forest Flight</h4>
+          <span class="prompt-params">--ar 16:9 --s 300 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>FPV drone racing through redwood forest, morning mist, golden sunlight, photorealistic --ar 16:9 --s 300 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Nature documentaries, Adventure content, Travel sequences</span>
+          </div>
+          <p class="prompt-tips">Tip: Low chaos (15) maintains consistency across frames.</p>
+          <div class="prompt-img-row">
+            <img src="../images/cinematic/fpv-forest.jpg" alt="FPV drone racing through misty redwood forest with golden sunlight -- cinematic Midjourney V7 prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>2. Aerial Alpine Valley</h4>
+          <span class="prompt-params">--ar 16:9 --s 250 --c 20 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>Aerial drone shot of an alpine valley with snow-capped peaks and a winding river, dramatic side lighting creating long shadows, atmospheric haze in valley, golden hour --ar 16:9 --s 250 --c 20 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Establishing shots, Travel documentaries, Showcasing scale</span>
+          </div>
+          <p class="prompt-tips">Tip: Moderate stylize (250) balances realism with beauty.</p>
+        </div>
+      </div>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>3. Cyberpunk Tokyo Tracking</h4>
+          <span class="prompt-params">--ar 16:9 --s 400 --no crowds --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>Tracking shot through neon-lit Tokyo streets at night, rain-slicked pavement reflecting cyberpunk signs, crowds of people with umbrellas, cinematic, film grain --ar 16:9 --s 400 --no crowds --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Music videos, Fashion content, Cyberpunk aesthetics</span>
+          </div>
+          <p class="prompt-tips">Tip: Higher stylize (400) enhances neon colors.</p>
+          <div class="prompt-img-row">
+            <img src="../images/cinematic/cyberpunk-tokyo.jpg" alt="Tracking shot through neon-lit Tokyo streets at night with rain-slicked pavement -- cyberpunk Midjourney V7 prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>4. Low Angle Hero Shot</h4>
+          <span class="prompt-params">--ar 9:16 --s 350 --c 5 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>Low angle hero shot of a warrior standing on a cliff edge overlooking a vast fantasy landscape, dramatic rim lighting, windswept hair and cloak, golden hour --ar 9:16 --s 350 --c 5 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Character introductions, Promotional imagery</span>
+          </div>
+          <p class="prompt-tips">Tip: 9:16 perfect for mobile and social media.</p>
+          <div class="prompt-img-row">
+            <img src="../images/cinematic/hero-shot.jpg" alt="Low angle hero shot of warrior on cliff edge overlooking fantasy landscape -- Midjourney V7 cinematic prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>5. Push-In Coffee Craft</h4>
+          <span class="prompt-params">--ar 9:16 --s 300 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>Slow push-in on artisan hands crafting a latte, steam rising, warm morning light from cafe window, photorealistic, shallow depth of field --ar 9:16 --s 300 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Process videos, Artisan content</span>
+          </div>
+          <p class="prompt-tips">Tip: Vertical format ideal for social stories.</p>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Photography -->
+    <div class="prompts-category" id="cat-photography">
+      <h3>Photography -- Portraits, Street, Editorial</h3>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>6. Editorial Fashion Portrait</h4>
+          <span class="prompt-params">--ar 4:5 --s 350 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>Editorial fashion portrait of a woman in a bold red outfit against a brutalist concrete wall, shot on Hasselblad medium format, soft diffused lighting, desaturated color palette --ar 4:5 --s 350 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Fashion editorials, Brand campaigns, Portfolio work</span>
+          </div>
+          <p class="prompt-tips">Tip: Medium format camera reference adds realistic depth-of-field.</p>
+          <div class="prompt-img-row">
+            <img src="../images/photography/editorial-fashion.jpg" alt="Editorial fashion portrait of woman in red against brutalist concrete wall -- Midjourney V7 photography prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>7. Cinematic Character Close-Up</h4>
+          <span class="prompt-params">--ar 4:5 --s 300 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>Cinematic portrait of an elderly fisherman with weathered hands and deep wrinkles, natural window light from left, warm morning atmosphere, background of a coastal harbor, documentary photography style --ar 4:5 --s 300 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Documentary work, Character studies, Authentic storytelling</span>
+          </div>
+          <p class="prompt-tips">Tip: Specifying light direction creates natural-looking portraits.</p>
+          <div class="prompt-img-row">
+            <img src="../images/photography/cinematic-fisherman.jpg" alt="Cinematic portrait of elderly fisherman with weathered hands by coastal harbor -- Midjourney V7 portrait prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>8. Hyper-Realistic Cinematic Portrait</h4>
+          <span class="prompt-params">--ar 4:5 --s 250 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>A hyper-realistic cinematic portrait of a handsome man with a rugged jawline and short, messy dark hair, wearing dark round sunglasses and a textured leather jacket, dramatic side lighting, shallow depth of field --ar 4:5 --s 250 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Character design, Film pre-visualization</span>
+          </div>
+          <p class="prompt-tips">Tip: Hyper-realistic + specific features = consistent character generation.</p>
+        </div>
+      </div>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>9. Vintage Street Photography</h4>
+          <span class="prompt-params">--ar 16:9 --style raw --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>Man walking his dog on a street, you can see his full body, like an old vintage photograph, film fuji color --ar 16:9 --style raw --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Retro aesthetics, Mood boards</span>
+          </div>
+          <p class="prompt-tips">Tip: Film fuji color reference creates warm analog tones.</p>
+          <div class="prompt-img-row">
+            <img src="../images/photography/vintage-street.jpg" alt="Vintage style street photograph of man walking dog -- Midjourney V7 photography prompt with film fuji color" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Architecture -->
+    <div class="prompts-category" id="cat-architecture">
+      <h3>Architecture -- Interior, Exterior, Urban Planning</h3>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>10. Sustainable Forest Retreat</h4>
+          <span class="prompt-params">--ar 16:9 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>A serene wellness retreat nestled in a redwood forest, architectural photography, built from cross-laminated timber and rammed earth walls, large panoramic windows framing the trees, dappled sunlight filtering through the canopy, geothermal heating, green roof, hyper-realistic, 8k --ar 16:9 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Eco-conscious residential, Spa design, Biophilic design</span>
+          </div>
+          <p class="prompt-tips">Tip: Material specificity (CLT, rammed earth) guides architectural accuracy.</p>
+          <div class="prompt-img-row">
+            <img src="../images/architecture/forest-retreat.jpg" alt="Sustainable wellness retreat in redwood forest with cross-laminated timber -- Midjourney V7 architecture prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>11. Parametric Facade</h4>
+          <span class="prompt-params">--ar 16:9 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>A stunning parametric facade on a corporate headquarters, algorithmic architecture, a complex woven structure of glass and white composite panels, reflecting a dynamic sky, highly detailed intricate patterns, futuristic, wide-angle lens, photorealistic render --ar 16:9 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Commercial projects, Cultural centers, Statement buildings</span>
+          </div>
+          <p class="prompt-tips">Tip: Parametric + algorithmic keywords create organic geometric patterns.</p>
+          <div class="prompt-img-row">
+            <img src="../images/architecture/parametric-facade.jpg" alt="Parametric facade with algorithmic architecture on corporate headquarters -- Midjourney V7 architecture prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>12. Tadao Ando Style Gallery</h4>
+          <span class="prompt-params">--ar 4:3 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>A small art gallery, architectural photography, in the style of Tadao Ando, masterful use of raw concrete and natural light, serene spatial composition, profound silence, minimalist, dramatic shadow play --ar 4:3 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Museums, Galleries, Minimalist residential</span>
+          </div>
+          <p class="prompt-tips">Tip: Named architect reference strongly guides the architectural style.</p>
+          <div class="prompt-img-row">
+            <img src="../images/architecture/tadao-ando-gallery.jpg" alt="Minimalist art gallery in Tadao Ando style with raw concrete and natural light -- Midjourney V7 architecture prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Concept Art -->
+    <div class="prompts-category" id="cat-concept-art">
+      <h3>Concept Art -- Fantasy, Sci-Fi, Character Design</h3>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>13. Futuristic Transport Hub</h4>
+          <span class="prompt-params">--ar 21:9 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>Futuristic conceptual architecture, a transportation hub with aerodynamic carbon fiber arches and ethereal light tunnels, speculative design, bio-inspired structures, neon glow, foggy atmosphere, epic scale, concept art, Unreal Engine 5 render --ar 21:9 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Competitions, Sci-fi concept art</span>
+          </div>
+          <p class="prompt-tips">Tip: 21:9 ultrawide ratio enhances the epic architectural scale.</p>
+          <div class="prompt-img-row">
+            <img src="../images/concept-art/transport-hub.jpg" alt="Futuristic transportation hub with carbon fiber arches and neon glow -- Midjourney V7 concept art prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>14. Dark Fantasy Poster</h4>
+          <span class="prompt-params">--ar 16:9 --s 250 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>Create a dark fantasy poster with a young red-haired woman surrounded by mystical elements in a gloomy setting, gothic aesthetic, dramatic lighting --ar 16:9 --s 250 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Book covers, Game art, Dark fantasy illustration</span>
+          </div>
+          <p class="prompt-tips">Tip: Gothic aesthetic + dramatic lighting creates the dark mood.</p>
+          <div class="prompt-img-row">
+            <img src="../images/concept-art/dark-fantasy.jpg" alt="Dark fantasy poster with red-haired woman in gothic setting -- Midjourney V7 concept art prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>15. 1970s Dark Fantasy Frazetta Style</h4>
+          <span class="prompt-params">--ar 2:3 --s 400 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>1970s dark fantasy movie poster style, barbarian warrior on a throne, Frank Frazetta inspired, oil painting texture, warm amber tones, heavy shadows --ar 2:3 --s 400 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Retro fantasy, Vintage illustration</span>
+          </div>
+          <p class="prompt-tips">Tip: Higher stylize (400) enhances the painterly oil painting quality.</p>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Anime -->
+    <div class="prompts-category" id="cat-anime">
+      <h3>Anime &amp; Illustration -- Ghibli, Manga, Cel Shading</h3>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>16. Ghibli Fishing Scene</h4>
+          <span class="prompt-params">--ar 16:9 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>Close-up of a boy fishing in the river and catching a fish, captured with the finesse of Ghibli's storytelling, lush green background, soft lighting, detailed background --ar 16:9 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Anime illustration, Peaceful nature scenes</span>
+          </div>
+          <p class="prompt-tips">Tip: Ghibli reference captures the warm, hand-painted anime aesthetic.</p>
+          <div class="prompt-img-row">
+            <img src="../images/anime/ghibli-fishing.jpg" alt="Ghibli-style boy fishing in lush green river -- Midjourney V7 anime illustration prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>17. Anime Forest Girl with SREF</h4>
+          <span class="prompt-params">--ar 16:9 --sref 7435 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>A girl standing in a mystical forest, anime illustration style, vibrant colors, detailed eyes, cel shading, dynamic pose, studio ghibli inspired, soft lighting, detailed background --ar 16:9 --sref 7435 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Anime art, Manga illustration, Character design</span>
+          </div>
+          <p class="prompt-tips">Tip: SREF 7435 adds a vibrant anime/manga color style.</p>
+          <div class="prompt-img-row">
+            <img src="../images/anime/anime-forest-girl.jpg" alt="Anime girl in mystical forest with vibrant colors and cel shading using SREF 7435 -- Midjourney V7 anime prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- 3D & Isometric -->
+    <div class="prompts-category" id="cat-3d">
+      <h3>3D &amp; Isometric -- Renders, Maps, Exploded Views</h3>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>18. Futuristic Vehicle 3D</h4>
+          <span class="prompt-params">--ar 16:9 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>3D-Illustration of a futuristic vehicle with smooth surfaces and dynamic lines, illuminated under a starry sky, octane render, volumetric lighting --ar 16:9 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Product concepts, Sci-fi vehicle design</span>
+          </div>
+          <p class="prompt-tips">Tip: Octane render reference creates realistic 3D material quality.</p>
+          <div class="prompt-img-row">
+            <img src="../images/3d/futuristic-vehicle.jpg" alt="3D illustration of futuristic vehicle under starry sky with octane render -- Midjourney V7 3D prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>19. Isometric City Map</h4>
+          <span class="prompt-params">--ar 16:9 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>Create an isometric representation of a complex, futuristic city map in which all buildings and streets are in perfect harmony with each other and visible from a bird's eye view --ar 16:9 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Game design, Architectural planning</span>
+          </div>
+          <p class="prompt-tips">Tip: Isometric perspective creates a readable, infographic-style layout.</p>
+          <div class="prompt-img-row">
+            <img src="../images/3d/isometric-city.jpg" alt="Isometric representation of futuristic city map from bird's eye view -- Midjourney V7 isometric prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Nature & Landscape -->
+    <div class="prompts-category" id="cat-nature">
+      <h3>Nature &amp; Landscape -- Aurora, Mountains, Ocean</h3>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>20. Misty Mountain Village</h4>
+          <span class="prompt-params">--ar 16:9 --s 300 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>Crane shot descending over a misty mountain village at sunrise, traditional stone buildings with slate roofs, narrow winding cobblestone streets, warm golden light breaking through fog layers, cinematic --ar 16:9 --s 300 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Travel documentaries, Establishing shots</span>
+          </div>
+          <p class="prompt-tips">Tip: Fog + golden hour creates atmospheric depth.</p>
+          <div class="prompt-img-row">
+            <img src="../images/nature/misty-village.jpg" alt="Crane shot of misty mountain village at sunrise with cobblestone streets -- Midjourney V7 landscape prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>21. Aurora Borealis</h4>
+          <span class="prompt-params">--ar 16:9 --s 500 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>Aurora borealis time-lapse over a warm lit log cabin in the snowy wilderness, vivid green and purple lights dancing in the sky, reflection on a frozen lake, long exposure photography --ar 16:9 --s 500 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Nature documentaries, Travel content</span>
+          </div>
+          <p class="prompt-tips">Tip: Higher stylize (500) enhances the magical quality of auroras.</p>
+          <div class="prompt-img-row">
+            <img src="../images/nature/aurora-cabin.jpg" alt="Aurora borealis over warm lit log cabin in snowy wilderness with frozen lake reflection -- Midjourney V7 nature prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Product & Commercial -->
+    <div class="prompts-category" id="cat-product">
+      <h3>Product &amp; Commercial -- Luxury, Cosmetics, Food</h3>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>22. Luxury Chronograph Watch</h4>
+          <span class="prompt-params">--ar 1:1 --s 100 --c 0 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>Orbital product photography of a luxury chronograph watch on dark marble, single spotlight from above creating premium reflections, studio lighting, photorealistic --ar 1:1 --s 100 --c 0 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Luxury product launches, E-commerce</span>
+          </div>
+          <p class="prompt-tips">Tip: Zero chaos ensures perfect consistency. Low stylize for accuracy.</p>
+          <div class="prompt-img-row">
+            <img src="../images/product/luxury-watch.jpg" alt="Luxury chronograph watch on dark marble with spotlight -- Midjourney V7 product photography prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>23. Perfume Bottle Elegance</h4>
+          <span class="prompt-params">--ar 4:5 --s 300 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>Elegant perfume bottle on a mirrored surface, scattered rose petals, soft side lighting creating depth and drama, luxury cosmetics photography, pastel pink and gold tones --ar 4:5 --s 300 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Luxury cosmetics, Lifestyle marketing</span>
+          </div>
+          <p class="prompt-tips">Tip: Mirrored surface doubles the visual impact.</p>
+          <div class="prompt-img-row">
+            <img src="../images/product/perfume-bottle.jpg" alt="Elegant perfume bottle on mirrored surface with rose petals -- Midjourney V7 product photography prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>24. Skincare Ad with Text</h4>
+          <span class="prompt-params">--ar 4:5 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>A minimalist Instagram ad for a skincare brand, pastel color palette, with a bottle of serum and a short tagline "Glow Daily" --ar 4:5 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Social media marketing, Brand mockups</span>
+          </div>
+          <p class="prompt-tips">Tip: V7 text rendering is improved but keep text to 2-4 words max.</p>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Abstract & Artistic -->
+    <div class="prompts-category" id="cat-abstract">
+      <h3>Abstract &amp; Artistic -- Fluid Art, Fractals, Glitch</h3>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>25. Metallic Paint Collision</h4>
+          <span class="prompt-params">--ar 1:1 --s 600 --c 30 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>Two streams of metallic paint colliding in mid-air, gold and teal, frozen in time, high-speed photography style, black background, abstract art --ar 1:1 --s 600 --c 30 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Abstract backgrounds, Title sequences</span>
+          </div>
+          <p class="prompt-tips">Tip: High chaos (30) creates unique variations each generation.</p>
+          <div class="prompt-img-row">
+            <img src="../images/abstract/metallic-paint.jpg" alt="Gold and teal metallic paint streams colliding mid-air frozen in time -- Midjourney V7 abstract art prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>26. Geometric Light Refraction</h4>
+          <span class="prompt-params">--ar 1:1 --s 700 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>Geometric light refraction through crystal prisms, creating rainbow spectrum patterns, top-down view, multiple light sources, album cover art --ar 1:1 --s 700 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Album covers, Modern art prints</span>
+          </div>
+          <p class="prompt-tips">Tip: Album cover art keyword nudges toward centered, balanced framing.</p>
+          <div class="prompt-img-row">
+            <img src="../images/abstract/light-refraction.jpg" alt="Geometric light refraction through crystal prisms creating rainbow spectrum -- Midjourney V7 abstract prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Text & Typography -->
+    <div class="prompts-category" id="cat-text">
+      <h3>Text &amp; Typography -- Posters, Neon Signs, Logos</h3>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>27. Jazz Night Event Poster</h4>
+          <span class="prompt-params">--ar 2:3 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>A digital poster for a jazz night event with the words "Smooth Sounds Tonight" in glowing letters, moody lighting, neon aesthetic, dark background --ar 2:3 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Event promotion, Poster design</span>
+          </div>
+          <p class="prompt-tips">Tip: Keep text to 2-4 words. Neon glow masks text rendering imperfections.</p>
+          <div class="prompt-img-row">
+            <img src="../images/text/jazz-night-poster.jpg" alt="Digital jazz night event poster with glowing neon text Smooth Sounds Tonight -- Midjourney V7 typography prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+      <div class="prompt-item">
+        <div class="prompt-header" onclick="togglePrompt(this)">
+          <h4>28. Neon Sign Typography</h4>
+          <span class="prompt-params">--ar 16:9 --s 400 --v 7</span>
+          <span class="prompt-toggle">&#9660;</span>
+        </div>
+        <div class="prompt-body">
+          <div class="prompt-prompt">
+            <p><strong>Prompt:</strong></p>
+            <pre><code>Neon sign reading "DREAM BIG" mounted on a dark brick wall, warm glow reflecting on wet pavement below, atmospheric, urban photography style --ar 16:9 --s 400 --v 7</code></pre>
+          </div>
+          <div class="prompt-meta">
+            <span>Best for: Motivational content, Social media posts</span>
+          </div>
+          <p class="prompt-tips">Tip: Neon text renders more reliably than printed text.</p>
+          <div class="prompt-img-row">
+            <img src="../images/text/neon-sign.jpg" alt="Neon sign reading DREAM BIG on dark brick wall with wet pavement reflections -- Midjourney V7 text typography prompt" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+<div class="section-divider"></div>
+
+<!-- FAQ -->
+<section id="faq">
+  <div class="container">
+    <h2>Frequently Asked Questions</h2>
+    <p class="section-desc">Common questions about Midjourney V7 prompts, parameters, and best practices.</p>
+    <div class="faq-list">
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">
+          <span>What is Midjourney V7?</span>
+          <span class="faq-arrow">&#9660;</span>
+        </div>
+        <div class="faq-a">
+          <p>Midjourney V7 is the latest version of the AI image generation model by Midjourney, released April 2025 and default since June 2025. It features significantly improved photorealism, video generation up to 21 seconds, a new Omni Reference (<code>--oref</code>) system, Draft Mode (10x faster), Conversational Mode, and better natural language understanding compared to V6. It is described as a "ground-up rework" focused on photographic realism, physical coherence, and precise prompt interpretation.</p>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">
+          <span>How do I write a good Midjourney V7 prompt?</span>
+          <span class="faq-arrow">&#9660;</span>
+        </div>
+        <div class="faq-a">
+          <p>Follow the 6-part formula: <strong>Subject + Action + Environment + Lighting + Style + Parameters</strong>. Put your subject first (V7 weighs early words more heavily), specify lighting for 3x better results, and keep parameters at the end. Use natural language instead of keyword stuffing. Stick to one main subject per prompt. Front-load the most important details.</p>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">
+          <span>What parameters are new in Midjourney V7?</span>
+          <span class="faq-arrow">&#9660;</span>
+        </div>
+        <div class="faq-a">
+          <p>V7 introduces four new parameters: <code>--oref</code> (Omni Reference, replaces <code>--cref</code> -- now supports characters, objects, vehicles, and creatures), <code>--ow</code> (Omni Weight, community recommends ~400), <code>--exp</code> (experimental aesthetics, range 0-100, best under 25), and <code>--q 4</code> (maximum quality tier). Personalization (<code>--p</code>) is also on by default for the first time.</p>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">
+          <span>What is the best --s (stylize) value for Midjourney V7?</span>
+          <span class="faq-arrow">&#9660;</span>
+        </div>
+        <div class="faq-a">
+          <p>It depends on your use case: Product photography: <code>--s 100-200</code>. Portraits: <code>--s 250-350</code>. Landscapes: <code>--s 250-400</code>. Cinematic shots: <code>--s 300-400</code>. Abstract art: <code>--s 500-800</code>. Most general use cases work best at 250-400. Start there and adjust. If results look too "AI-ish", lower stylize to 150-250. If results are boring, raise to 350-500.</p>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">
+          <span>Can I generate these images without Midjourney?</span>
+          <span class="faq-arrow">&#9660;</span>
+        </div>
+        <div class="faq-a">
+          <p>Yes. <a href="https://www.pixmind.io/" target="_blank" rel="noopener">Pixmind</a> offers Midjourney V7 and other top AI image models via API. Free credits on signup, no Discord needed. The example images in this collection were generated using Pixmind's API.</p>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">
+          <span>Midjourney V7 vs V6 -- what changed?</span>
+          <span class="faq-arrow">&#9660;</span>
+        </div>
+        <div class="faq-a">
+          <p>V7 has better photorealism with improved skin textures, fabric details, and fewer hand/finger artifacts. New features include video generation (up to 21 seconds), Omni Reference (<code>--oref</code>), Draft Mode (10x faster, half GPU cost), Conversational Mode, and an expanded stylize range (0-1000 vs 0-750 in V6). V7 also understands natural language significantly better. Old V6 prompts may produce different results in V7 and should be retested.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer class="footer">
+  <div class="container">
+    <div class="footer-links">
+      <a href="https://github.com/yourusername/awesome-midjourney-v7" target="_blank" rel="noopener">GitHub Repository</a>
+      <a href="https://github.com/yourusername/awesome-midjourney-v7/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener">Contributing</a>
+      <a href="https://github.com/yourusername/awesome-midjourney-v7/blob/main/LICENSE" target="_blank" rel="noopener">License (CC0)</a>
+      <a href="https://www.pixmind.io/" target="_blank" rel="noopener">Pixmind -- AI Image Generation API</a>
+    </div>
+    <p>The largest open-source collection of Midjourney V7 prompts with generated images. 63+ tested, copy-paste ready examples.</p>
+    <p style="margin-top:8px">Powered by <a href="https://www.pixmind.io/" target="_blank" rel="noopener">Pixmind</a> -- AI Image Generation API. Licensed under CC0 1.0 Universal.</p>
+  </div>
+</footer>
+
+<!-- Back to top -->
+<button class="back-top" id="backTop" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">&#8679;</button>
+
+<script>
+function togglePrompt(header){
+  var body=header.nextElementSibling;
+  var toggle=header.querySelector('.prompt-toggle');
+  body.classList.toggle('open');
+  toggle.classList.toggle('open');
+}
+function toggleFaq(q){
+  var a=q.nextElementSibling;
+  var arrow=q.querySelector('.faq-arrow');
+  a.classList.toggle('open');
+  arrow.classList.toggle('open');
+}
+window.addEventListener('scroll',function(){
+  var btn=document.getElementById('backTop');
+  if(window.scrollY>600){btn.classList.add('show')}else{btn.classList.remove('show')}
+});
+document.querySelectorAll('.nav-links a[href^="#"]').forEach(function(link){
+  link.addEventListener('click',function(){
+    document.querySelector('.nav-links').classList.remove('open');
+  });
+});
+</script>
+</body>
+</html>
