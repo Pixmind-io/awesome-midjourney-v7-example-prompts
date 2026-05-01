@@ -19,7 +19,7 @@ Orbital product photography of a luxury chronograph watch on dark marble, single
 
 **技巧：** 低风格化值（100）和 `--c 0` 使输出更可控、结果更一致。"Single spotlight"（单聚光灯）在金属和玻璃表面产生高级感的反射效果。方形比例非常适合产品网格和电商平台展示。
 
-[查看示例](../images/product/luxury-chronograph.jpg)
+![示例](../images/product/luxury-chronograph.jpg)
 
 ---
 
@@ -36,7 +36,7 @@ Elegant perfume bottle on a mirrored surface, scattered rose petals, soft side l
 
 **技巧：** 高风格化值（300）增强梦幻、令人向往的质感，这对于香水营销至关重要。"Mirrored surface"（镜面）使视觉冲击力翻倍并增添高级感。粉色与金色的组合是化妆品领域的经典配色。
 
-[查看示例](../images/product/perfume-bottle.jpg)
+![示例](../images/product/perfume-bottle.jpg)
 
 ---
 
@@ -55,7 +55,7 @@ An electric bicycle designed for city commuters, modern style, white and silver 
 
 **技巧：** `--style raw` 降低 Midjourney 的艺术化处理，呈现更纯粹的产品概念效果。"White and silver color palette"（白银配色）使设计更聚焦、更专业。16:9 宽幅比例提供充足的横向展示空间。
 
-[查看示例](../images/product/electric-bike.jpg)
+![示例](../images/product/electric-bike.jpg)
 
 ---
 
@@ -74,7 +74,7 @@ A minimalist Instagram ad for a skincare brand, pastel color palette, with a bot
 
 **技巧：** Midjourney V7 的文字渲染能力已显著提升——像 "Glow Daily" 这样的简短标语可以可靠生成。4:5 比例是 Instagram 竖版广告的最佳格式。"Minimalist"（极简）搭配 "pastel"（柔和色调）营造出美妆营销中常见的清新现代感。
 
-[查看示例](../images/product/skincare-ad.jpg)
+![示例](../images/product/skincare-ad.jpg)
 
 ---
 
@@ -91,7 +91,7 @@ Floating sneaker display against gradient background, Nike-style athletic shoe, 
 
 **技巧：** "Floating"（悬浮）和 "dramatic bottom lighting"（戏剧性底部光源）营造出高端、吸睛的产品发布美学。"Ultra-detailed texture"（超精细纹理）确保网面、皮革和橡胶等材质被渲染得真实可信。渐变背景保持视觉焦点集中在产品上。
 
-[查看示例](../images/product/sneaker-floating.jpg)
+![示例](../images/product/sneaker-floating.jpg)
 
 ---
 
@@ -110,6 +110,6 @@ Artisan flat lay food photography, sourdough bread, aged cheese, fresh herbs, wo
 
 **技巧：** "Flat lay"（俯拍平铺）是 V7 熟练掌握的构图术语，能稳定生成整齐的俯视排列。"Natural morning light from window"（窗户自然晨光）营造美食摄影师偏爱的温暖方向光。方形格式非常适合 Instagram 九宫格发布。
 
-[查看示例](../images/product/food-flat-lay.jpg)
+![示例](../images/product/food-flat-lay.jpg)
 
 ---

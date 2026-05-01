@@ -19,7 +19,7 @@ Editorial fashion portrait of a woman in a bold red outfit against a brutalist c
 
 **技巧：** 引用中画幅相机（Hasselblad）可生成真实的景深效果。"Desaturated"（去饱和）使色调保持低调、偏向杂志编辑风格。
 
-[查看示例](../images/photography/editorial-fashion.jpg)
+![示例](../images/photography/editorial-fashion.jpg)
 
 ---
 
@@ -36,7 +36,7 @@ Cinematic portrait of an elderly fisherman with weathered hands and deep wrinkle
 
 **技巧：** "Natural window light"（自然窗光）产生柔和、有方向感的光线，更具真实感。纪实风格的引用可避免画面过度修饰。
 
-[查看示例](../images/photography/cinematic-character.jpg)
+![示例](../images/photography/cinematic-character.jpg)
 
 ---
 
@@ -53,7 +53,7 @@ A hyper-realistic cinematic portrait of a handsome man with a rugged jawline and
 
 **技巧：** "Dramatic side lighting"（戏剧性侧光）营造强烈的明暗对比效果。浅景深将视觉焦点集中在面部特征上，增添电影虚化感。
 
-[查看示例](../images/photography/hyperrealistic-portrait.jpg)
+![示例](../images/photography/hyperrealistic-portrait.jpg)
 
 ---
 
@@ -70,7 +70,7 @@ Man walking his dog on a street, you can see his full body, like an old vintage 
 
 **技巧：** `--style raw` 降低 Midjourney 的艺术化处理，生成更真实的摄影效果。"Film fuji color" 还原富士胶片的温暖色调。
 
-[查看示例](../images/photography/vintage-street.jpg)
+![示例](../images/photography/vintage-street.jpg)
 
 ---
 
@@ -89,7 +89,7 @@ Rainy night street scene in Tokyo, reflections on wet pavement, neon signs refle
 
 **技巧：** "35mm film" 和 "grain texture" 组合增添胶片质感。霓虹灯在湿润路面上的反射是 Midjourney 的强项，可大胆利用。
 
-[查看示例](../images/photography/urban-night-rain.jpg)
+![示例](../images/photography/urban-night-rain.jpg)
 
 ---
 
@@ -106,7 +106,7 @@ A cyclist silhouetted against golden hour light on a bridge, city skyline in bac
 
 **技巧：** 引用 Leica M11 可产生独特的旁轴相机美学，画面自然真实。金色光线下的剪影效果在 V7 中非常稳定可靠。
 
-[查看示例](../images/photography/golden-hour-commuter.jpg)
+![示例](../images/photography/golden-hour-commuter.jpg)
 
 ---
 
@@ -125,7 +125,7 @@ Close-up of ocean wave crashing against rocks, frozen in time, water droplets su
 
 **技巧：** "Frozen in time" 暗示高速快门效果。"Backlight"（逆光）和 "translucent"（半透明）组合可创造出水流透光的视觉效果，Midjourney 对此渲染效果极佳。
 
-[查看示例](../images/photography/ocean-wave.jpg)
+![示例](../images/photography/ocean-wave.jpg)
 
 ---
 
@@ -142,7 +142,7 @@ Morning mist filtering through an ancient redwood forest, rays of sunlight pierc
 
 **技巧：** "Long exposure"（长曝光）为雾气增添丝滑、空灵的质感。较高的风格化值（300）增强氛围感而不失真实感。
 
-[查看示例](../images/photography/misty-forest.jpg)
+![示例](../images/photography/misty-forest.jpg)
 
 ---
 
@@ -161,7 +161,7 @@ Orbital product photography of a luxury chronograph watch on dark marble, single
 
 **技巧：** 低风格化值（100）和 `--c 0` 使输出更可控、结果更一致。"Single spotlight"（单聚光灯）在金属和玻璃表面产生高级感的反射效果。
 
-[查看示例](../images/photography/luxury-watch.jpg)
+![示例](../images/photography/luxury-watch.jpg)
 
 ---
 
@@ -178,6 +178,6 @@ Minimalist product shot of a skincare serum bottle on white marble, soft natural
 
 **技巧：** 龟背竹叶影是产品摄影的经典元素，Midjourney 能很好地呈现。"Soft natural light from left" 营造柔和的方向光，非常适合美妆类产品。
 
-[查看示例](../images/photography/skincare-minimalist.jpg)
+![示例](../images/photography/skincare-minimalist.jpg)
 
 ---

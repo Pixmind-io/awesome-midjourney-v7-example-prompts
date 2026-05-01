@@ -15,7 +15,7 @@ A digital poster for a jazz night event with the words "Smooth Sounds Tonight" i
 **适用场景：** 活动推广、海报设计、夜生活品牌
 **技巧：** 文字最多保留 2-4 个词。V7 对短句处理效果较好，但较长的文字会出现变形。
 
-[→ 查看示例](../images/text/jazz-night-poster.jpg)
+![示例](../images/text/jazz-night-poster.jpg)
 
 ---
 
@@ -28,7 +28,7 @@ Minimalist logo design for a coffee shop called "Bloom", clean sans-serif typogr
 **适用场景：** Logo 概念、品牌形象设计稿、创业路演
 **技巧：** 使用 `--style raw` 可以获得更精确的文字渲染。"Sans-serif"（无衬线体）有助于保持字母更清晰。
 
-[→ 查看示例](../images/text/brand-logo.jpg)
+![示例](../images/text/brand-logo.jpg)
 
 ---
 
@@ -43,7 +43,7 @@ Interior design moodboard for a modern Scandinavian living room, neutral tones, 
 **适用场景：** 室内设计方案、品牌情绪板、客户提案
 **技巧：** 情绪板风格的提示词效果很好，因为 V7 能理解拼贴/排版的布局概念。
 
-[→ 查看示例](../images/text/interior-moodboard.jpg)
+![示例](../images/text/interior-moodboard.jpg)
 
 ---
 
@@ -56,7 +56,7 @@ Fashion brand lookbook layout page, featuring a model in oversized cream linen o
 **适用场景：** 时尚品牌、Lookbook 概念、编辑排版
 **技巧：** "Polaroid-style"（宝丽来风格）和 "handwritten notes"（手写笔记）可以创建剪贴簿/Lookbook 的感觉，而不需要精确的文字。
 
-[→ 查看示例](../images/text/fashion-lookbook.jpg)
+![示例](../images/text/fashion-lookbook.jpg)
 
 ---
 
@@ -71,7 +71,7 @@ Neon sign reading "DREAM BIG" mounted on a dark brick wall, warm glow reflecting
 **适用场景：** 励志内容、社交媒体、城市美学
 **技巧：** 霓虹文字比印刷文字渲染更可靠，因为光晕效果可以掩盖瑕疵。
 
-[→ 查看示例](../images/text/neon-sign.jpg)
+![示例](../images/text/neon-sign.jpg)
 
 ---
 
@@ -84,7 +84,7 @@ The same modern cabin with a cantilevered roof, shown in four seasonal variation
 **适用场景：** 客户提案、季节性营销、设计对比
 **技巧：** "Consistent camera angle"（一致的拍摄角度）有助于 V7 在四个面板中保持相同的视角。使用 `--style raw` 可以获得更准确的建筑渲染效果。
 
-[→ 查看示例](../images/text/four-seasons.jpg)
+![示例](../images/text/four-seasons.jpg)
 
 ---
 

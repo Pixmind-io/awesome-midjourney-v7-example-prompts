@@ -19,7 +19,7 @@ A serene wellness retreat nestled in a redwood forest, architectural photography
 
 **技巧：** "Cross-laminated timber"（交叉层压木材）和 "rammed earth"（夯土）是具体的材料引用，Midjourney 能渲染出令人信服的纹理。"Dappled sunlight"（斑驳阳光）营造自然的森林光影效果，增添氛围感和真实感。
 
-[查看示例](../images/architecture/sustainable-forest-retreat.jpg)
+![示例](../images/architecture/sustainable-forest-retreat.jpg)
 
 ---
 
@@ -36,7 +36,7 @@ Architectural visualization of a modern glass extension added to a historic bric
 
 **技巧：** "Adaptive reuse"（适应性再利用）暗示新旧材料的并置对比。黄昏时段允许温暖的室内灯光与冷调的室外环境光共存，创造出引人注目的对比效果，充分展示设计的两个层面。
 
-[查看示例](../images/architecture/adaptive-reuse-warehouse.jpg)
+![示例](../images/architecture/adaptive-reuse-warehouse.jpg)
 
 ---
 
@@ -55,7 +55,7 @@ A stunning parametric facade on a corporate headquarters, algorithmic architectu
 
 **技巧：** "Algorithmic architecture"（算法建筑）和 "parametric facade"（参数化外立面）组合引导 V7 生成有机的、数学灵感的图案。"Reflecting a dynamic sky"（反射动态天空）确保玻璃元素与环境互动，增强真实感。
 
-[查看示例](../images/architecture/parametric-facade.jpg)
+![示例](../images/architecture/parametric-facade.jpg)
 
 ---
 
@@ -72,7 +72,7 @@ A monumental brutalist library, raw concrete texture (beton brut), powerful geom
 
 **技巧：** 黑白色调消除了颜色干扰，迫使观者聚焦于形式、阴影和纹理——粗野主义建筑的核心特质。"Sharp morning light"（锐利的晨光）创造出定义粗野主义美学的硬朗阴影。
 
-[查看示例](../images/architecture/brutalist-library.jpg)
+![示例](../images/architecture/brutalist-library.jpg)
 
 ---
 
@@ -91,7 +91,7 @@ A small art gallery, architectural photography, in the style of Tadao Ando, mast
 
 **技巧：** 指定建筑师名字（"Tadao Ando"）会强烈影响 Midjourney 对空间、材料和光线的诠释。"Profound silence"（深邃的寂静）是一个富有感染力的描述词，将氛围引向沉思式的空灵感。
 
-[查看示例](../images/architecture/tadao-ando-gallery.jpg)
+![示例](../images/architecture/tadao-ando-gallery.jpg)
 
 ---
 
@@ -110,7 +110,7 @@ Luxury resort infinity pool overlooking a tropical coastline at sunset, contempo
 
 **技巧：** 将具体材料（"natural stone and rich teak wood"）与人物场景（"guests lounging"）结合，创造出令人向往的生活方式影像。黄金时段光影是 V7 最强的渲染能力之一，特别适合温暖、宜人的场景。
 
-[查看示例](../images/architecture/luxury-resort-pool.jpg)
+![示例](../images/architecture/luxury-resort-pool.jpg)
 
 ---
 
@@ -127,7 +127,7 @@ Interior architectural photography of a sunken living room in a minimalist home,
 
 **技巧：** 4:5 竖向比例非常适合室内纵向构图。窗外 "rainy garden"（雨中花园）与温暖室内形成冷热对比，强化舒适氛围。镜头光晕（lens flare）和景深（depth of field）增添摄影真实感。
 
-[查看示例](../images/architecture/sunken-living-room.jpg)
+![示例](../images/architecture/sunken-living-room.jpg)
 
 ---
 
@@ -146,6 +146,6 @@ Aerial masterplan visualization of a sustainable residential community, bird's-e
 
 **技巧：** "Bird's-eye view"（鸟瞰视角）配合 "map-like detail"（地图级细节）生成清晰可读的俯视构图。1:1 方形比例非常适合规划文件和演示图板。"Integrated into a forested landscape"（融入森林景观）确保开发项目与自然融合而非生硬叠加。
 
-[查看示例](../images/architecture/aerial-masterplan.jpg)
+![示例](../images/architecture/aerial-masterplan.jpg)
 
 ---

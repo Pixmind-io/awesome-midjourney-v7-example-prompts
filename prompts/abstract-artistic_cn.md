@@ -15,7 +15,7 @@ Two streams of metallic paint colliding in mid-air, gold and teal, frozen in tim
 **适用场景：** 抽象背景、片头设计、艺术内容
 **技巧：** 较高的 chaos (30) 可以创造独特的变体效果。高 stylize (600) 让 AI 在流体动态方面有更大的艺术发挥空间。
 
-[→ 查看示例](../images/abstract/metallic-paint.jpg)
+![示例](../images/abstract/metallic-paint.jpg)
 
 ---
 
@@ -28,7 +28,7 @@ Geometric light refraction through crystal prisms, creating rainbow spectrum pat
 **适用场景：** 专辑封面、现代艺术版画、设计灵感
 **技巧：** "album cover art"（专辑封面艺术）会引导构图趋向居中、平衡的框架。
 
-[→ 查看示例](../images/abstract/light-refraction.jpg)
+![示例](../images/abstract/light-refraction.jpg)
 
 ---
 
@@ -41,7 +41,7 @@ Macro photography of colored ink drops expanding in water, creating galaxy-like 
 **适用场景：** 背景图、壁纸、专辑艺术、冥想视觉素材
 **技巧：** 极高的 stylize (800) + 高 chaos (40) 每次都会产生截然不同的效果。
 
-[→ 查看示例](../images/abstract/ink-galaxy.jpg)
+![示例](../images/abstract/ink-galaxy.jpg)
 
 ---
 
@@ -56,7 +56,7 @@ A garden in full bloom painted in thick impasto brushstrokes, Claude Monet inspi
 **适用场景：** 艺术版画、墙面装饰、艺术灵感
 **技巧：** stylize 达到 900 可以将绘画质感推到极致。指定艺术家（莫奈）可以引导风格方向。
 
-[→ 查看示例](../images/abstract/impressionist-garden.jpg)
+![示例](../images/abstract/impressionist-garden.jpg)
 
 ---
 
@@ -69,7 +69,7 @@ Intricate fractal art pattern, sacred geometry, metallic gold lines on deep navy
 **适用场景：** 海报、数字版画、冥想图像、周边商品
 **技巧：** "sacred geometry"（神圣几何）和 "mandala symmetry"（曼陀罗对称）可以强化重复图案的结构感。
 
-[→ 查看示例](../images/abstract/fractal-art.jpg)
+![示例](../images/abstract/fractal-art.jpg)
 
 ---
 
@@ -84,7 +84,7 @@ Glitch art portrait of a woman, digital distortion, RGB color separation, pixel 
 **适用场景：** 专辑艺术、社交媒体视觉、数字艺术展览
 **技巧：** V7 对 "glitch"（故障效果）和 "RGB separation"（RGB 分离）的处理比之前版本更好，能产生更有意图感的扭曲效果。
 
-[→ 查看示例](../images/abstract/glitch-portrait.jpg)
+![示例](../images/abstract/glitch-portrait.jpg)
 
 ---
 

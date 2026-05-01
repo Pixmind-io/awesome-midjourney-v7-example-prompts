@@ -19,7 +19,7 @@ Editorial fashion portrait of a woman in a bold red outfit against a brutalist c
 
 **Tips:** Medium format camera reference adds realistic depth-of-field. "Desaturated" keeps colors muted and editorial.
 
-[View Example](../images/photography/editorial-fashion.jpg)
+![Example](../images/photography/editorial-fashion.jpg)
 
 ---
 
@@ -36,7 +36,7 @@ Cinematic portrait of an elderly fisherman with weathered hands and deep wrinkle
 
 **Tips:** "Natural window light" creates soft, directional illumination that feels authentic. Documentary style reference avoids over-polished results.
 
-[View Example](../images/photography/cinematic-character.jpg)
+![Example](../images/photography/cinematic-character.jpg)
 
 ---
 
@@ -53,7 +53,7 @@ A hyper-realistic cinematic portrait of a handsome man with a rugged jawline and
 
 **Tips:** "Dramatic side lighting" creates strong chiaroscuro contrast. Shallow depth of field draws focus to facial features and adds cinematic blur.
 
-[View Example](../images/photography/hyperrealistic-portrait.jpg)
+![Example](../images/photography/hyperrealistic-portrait.jpg)
 
 ---
 
@@ -70,7 +70,7 @@ Man walking his dog on a street, you can see his full body, like an old vintage 
 
 **Tips:** `--style raw` reduces Midjourney's artistic interpretation for a more authentic photographic look. "Film fuji color" invokes the warm tones of Fujifilm stock.
 
-[View Example](../images/photography/vintage-street.jpg)
+![Example](../images/photography/vintage-street.jpg)
 
 ---
 
@@ -89,7 +89,7 @@ Rainy night street scene in Tokyo, reflections on wet pavement, neon signs refle
 
 **Tips:** "35mm film" and "grain texture" together add analog authenticity. Neon reflections on wet surfaces are a Midjourney strength -- lean into it.
 
-[View Example](../images/photography/urban-night-rain.jpg)
+![Example](../images/photography/urban-night-rain.jpg)
 
 ---
 
@@ -106,7 +106,7 @@ A cyclist silhouetted against golden hour light on a bridge, city skyline in bac
 
 **Tips:** The Leica M11 reference produces a distinct rangefinder aesthetic with natural rendering. Silhouettes against golden light are highly reliable in V7.
 
-[View Example](../images/photography/golden-hour-commuter.jpg)
+![Example](../images/photography/golden-hour-commuter.jpg)
 
 ---
 
@@ -125,7 +125,7 @@ Close-up of ocean wave crashing against rocks, frozen in time, water droplets su
 
 **Tips:** "Frozen in time" suggests high shutter speed. "Backlight" and "translucent" together create the glowing-through-water effect that Midjourney renders beautifully.
 
-[View Example](../images/photography/ocean-wave.jpg)
+![Example](../images/photography/ocean-wave.jpg)
 
 ---
 
@@ -142,7 +142,7 @@ Morning mist filtering through an ancient redwood forest, rays of sunlight pierc
 
 **Tips:** "Long exposure" adds the silky, ethereal quality to the mist. High stylize value (300) enhances the atmospheric, painterly mood without losing realism.
 
-[View Example](../images/photography/misty-forest.jpg)
+![Example](../images/photography/misty-forest.jpg)
 
 ---
 
@@ -161,7 +161,7 @@ Orbital product photography of a luxury chronograph watch on dark marble, single
 
 **Tips:** Low stylize (100) and `--c 0` keep the output controlled and repeatable. "Single spotlight" creates dramatic, premium-looking reflections on metal and glass surfaces.
 
-[View Example](../images/photography/luxury-watch.jpg)
+![Example](../images/photography/luxury-watch.jpg)
 
 ---
 
@@ -178,6 +178,6 @@ Minimalist product shot of a skincare serum bottle on white marble, soft natural
 
 **Tips:** The monstera leaf shadow is a classic product photography trope that Midjourney interprets well. "Soft natural light from left" creates gentle, directional illumination ideal for beauty products.
 
-[View Example](../images/photography/skincare-minimalist.jpg)
+![Example](../images/photography/skincare-minimalist.jpg)
 
 ---

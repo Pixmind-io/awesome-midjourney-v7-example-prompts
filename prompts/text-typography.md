@@ -15,7 +15,7 @@ A digital poster for a jazz night event with the words "Smooth Sounds Tonight" i
 **Best for:** Event promotion, poster design, nightlife branding
 **Tips:** Keep text to 2-4 words max. V7 handles short phrases reasonably well but longer text will distort.
 
-[→ View Example](../images/text/jazz-night-poster.jpg)
+![Example](../images/text/jazz-night-poster.jpg)
 
 ---
 
@@ -28,7 +28,7 @@ Minimalist logo design for a coffee shop called "Bloom", clean sans-serif typogr
 **Best for:** Logo concepts, brand identity mockups, startup pitches
 **Tips:** Use `--style raw` for more literal text rendering. "Sans-serif" helps keep letters cleaner.
 
-[→ View Example](../images/text/brand-logo.jpg)
+![Example](../images/text/brand-logo.jpg)
 
 ---
 
@@ -43,7 +43,7 @@ Interior design moodboard for a modern Scandinavian living room, neutral tones, 
 **Best for:** Interior design proposals, brand moodboards, client presentations
 **Tips:** Moodboard-style prompts work well because V7 understands the collage/layout concept.
 
-[→ View Example](../images/text/interior-moodboard.jpg)
+![Example](../images/text/interior-moodboard.jpg)
 
 ---
 
@@ -56,7 +56,7 @@ Fashion brand lookbook layout page, featuring a model in oversized cream linen o
 **Best for:** Fashion brands, lookbook concepts, editorial layouts
 **Tips:** "Polaroid-style" and "handwritten notes" create the scrapbook/lookbook feel without requiring precise text.
 
-[→ View Example](../images/text/fashion-lookbook.jpg)
+![Example](../images/text/fashion-lookbook.jpg)
 
 ---
 
@@ -71,7 +71,7 @@ Neon sign reading "DREAM BIG" mounted on a dark brick wall, warm glow reflecting
 **Best for:** Motivational content, social media posts, urban aesthetic
 **Tips:** Neon text renders more reliably than printed text because the glow masks imperfections.
 
-[→ View Example](../images/text/neon-sign.jpg)
+![Example](../images/text/neon-sign.jpg)
 
 ---
 
@@ -84,7 +84,7 @@ The same modern cabin with a cantilevered roof, shown in four seasonal variation
 **Best for:** Client presentations, seasonal marketing, design comparison
 **Tips:** "Consistent camera angle" helps V7 maintain the same perspective across all four panels. Use `--style raw` for more accurate architectural rendering.
 
-[→ View Example](../images/text/four-seasons.jpg)
+![Example](../images/text/four-seasons.jpg)
 
 ---
 
