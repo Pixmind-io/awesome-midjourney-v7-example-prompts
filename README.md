@@ -82,6 +82,7 @@ Learn exactly how each parameter affects your output with comparison guides:
 | [Prompt Structure](guide/prompt-structure.md) | The 6-part formula: Subject → Action → Environment → Lighting → Style → Parameters |
 | [Common Mistakes](guide/common-mistakes.md) | Top 5 mistakes that waste GPU time |
 | [SREF Style Codes](guide/sref-style-codes.md) | Community-discovered style reference codes |
+| [X Twitter Community Picks](docs/x-twitter-midjourney-v7-prompts.md) | 15 curated prompts from X.com with 10+ likes, with images |
 
 ---
 
